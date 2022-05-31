@@ -1,0 +1,13 @@
+College Abbreviation,Meaning,Notes,Undergraduate College
+Business,Grossman School of Business,,Yes
+CALS,College of Agriculture and Life Sciences,,Yes
+CAS,College of Arts and Sciences,,Yes
+CEMS,College of Engineering and Mathematical Sciences,,Yes
+CESS,College of Education and Social Services,,Yes
+CNHS,College of Nursing and Health Sciences,,Yes
+COM,College of Medicine,,No
+Department of Ext,UVM Extension,,No
+LCOMEO,,"Probably means ""Larner College of Medicine: Continuing Ed - Operations"". Only used by two part-time faculty; you may find it useful to omit these records or recode as College of Medicine.",No
+Learning and Info Tech,,Only used by one faculty; seems to be related to UVM Libraries. You may find it useful to omit this or recode as UVM Libraries.,No
+Library,UVM Libraries,"Includes employees of Howe Library, Dana Medical Library, and Silver Special Collections Library.",No
+RSENR,Rubenstein School of Environment and Natural Resources,,Yes
