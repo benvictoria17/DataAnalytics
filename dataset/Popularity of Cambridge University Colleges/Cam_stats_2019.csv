@@ -1,0 +1,33 @@
+﻿Code,College,1st choice,2nd choice,No of applicants admitted to their 1st choice,No of applicants admitted to their 2nd choice,Total admitted
+CAI,Gonville and Caius College,428,344,62,22,93
+CC,Corpus Christi College,515,480,55,17,80
+CHR,Christ's College,518,550,67,21,108
+CHU,Churchill College,745,344,99,11,129
+CL,Clare College,336,376,59,20,114
+CLH,Clare Hall,245,253,39,6,119
+CTH,St Catharine's College,252,295,60,22,120
+DAR,Darwin College,589,688,135,61,324
+DOW,Downing College,429,406,90,27,182
+ED,St Edmund's College,577,441,75,18,258
+EM,Emmanuel College,271,319,54,13,90
+F,Fitzwilliam College,226,196,46,11,148
+G,Girton College,80,146,19,12,151
+HH,Hughes Hall,367,289,88,24,421
+HO,Homerton College,426,258,250,48,389
+JE,Jesus College,703,636,124,25,172
+JN,St John's College,974,942,109,30,142
+K,King's College,1524,1170,95,6,108
+LC,Lucy Cavendish College,156,132,28,11,194
+M,Magdalene College,235,249,42,11,73
+N,Newnham College,243,143,63,10,159
+NH,Murray Edwards College,35,46,5,5,80
+PEM,Pembroke College,405,565,44,32,108
+PET,Peterhouse,365,400,48,2,57
+Q,Queens' College,459,507,90,51,245
+R,Robinson College,80,77,20,4,109
+SE,Selwyn College,246,235,54,14,108
+SID,Sidney Sussex College,90,139,25,7,107
+T,Trinity College,2702,1252,109,6,126
+TH,Trinity Hall,324,352,53,12,85
+W,Wolfson College,374,445,97,38,417
+null,No preference,9935,12179,null,null,null
