@@ -1,0 +1,32 @@
+city,country,name,start_construction,planned_opening,region
+Dhaka,Bangladesh,Dhaka Metro,2016,2022,asia
+Guilin,China,Guilin Metro,2017,2025,asia
+Jinhua,China,Jinhua Rail Transit,2017,2022,asia
+Liuzhou,China,Liuzhou Metro,2016,2024,asia
+Nantong,China,Nantong Metro,2017,2022,asia
+Qingyuan,China,Qingyuan Maglev,2019,2022,asia
+Shantou,China,Shantou Metro,2016,2025,asia
+Taizhou,China,Taizhou Rail Transit,2016,2022,asia
+Bogotá,Colombia,Bogotá Metro,2020,2028,latin_america
+Quito,Ecuador,Quito Metro,2012,2022,latin_america
+Thessaloniki,Greece,Thessaloniki Metro,2006,2023,europe
+Agra,India,Agra Metro,2020,2025,asia
+Bhopal,India,Bhopal Metro,2018,2023,asia
+Indore,India,Indore Metro,2018,2023,asia
+Navi Mumbai,India,Navi Mumbai Metro,2011,2022,asia
+Patna,India,Patna Metro,2020,2024,asia
+Surat,India,Surat Metro,2021,2023,asia
+Ahvaz,Iran,Ahvaz Metro,2004,0,asia
+Karaj,Iran,Karaj Metro ,2006,2022,asia
+Kermanshah,Iran,Kermanshah Metro ,2011,2022,asia
+Qom,Iran,Qom Metro,2009,2022,asia
+Abidjan,Ivory Coast,Abidjan Metro,2017,2023,africa
+Lagos,Nigeria,Lagos Rail Mass Transit,2009,2022,africa
+Chelyabinsk,Russia,Chelyabinsk Metro,1992,0,asia
+Riyadh,Saudi Arabia,Riyadh Metro,2014,2022,asia
+Belgrade,Serbia,Belgrade Metro,2021,2028,europe
+Gebze,Turkey,Gebze Metro,2018,2023,asia
+Mersin,Turkey,Mersin Metro,2022,2026,asia
+New Taipei,Taiwan,New Taipei Metro,2016,2023,asia
+Honolulu,United States,Honolulu Rail Transit,2012,2022,north_america
+Ho Chi Minh City,Vietnam,Ho Chi Minh City Metro,2012,2024,asia

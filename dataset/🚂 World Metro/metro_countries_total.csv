@@ -1,0 +1,60 @@
+country,systems,length,lines,stations,annual_ridership_mill,inauguration,region
+China,43,8549.62,249,5375,2.1,1969,asia
+United States,15,1344.7,86,1228,0.75,1892,north_america
+South Korea,8,871.2,34,728,3.87,1974,asia
+Japan,13,791.2,45,747,8.19,1927,asia
+India,15,731.75,31,585,3.7,1984,asia
+Russia,7,639.1,29,380,3.51,1935,asia
+Spain,3,458.3,28,539,1.43,1919,europe
+United Kingdom,3,449.6,19,332,0.77,1863,europe
+Germany,4,386.8,24,413,3.59,1902,europe
+France,6,362.0,27,488,3.7,1900,europe
+Brazil,7,348.7,19,246,3.44,1974,latin_america
+Turkey,5,272.86,17,236,1.94,1989,asia
+Mexico,3,262.9,18,283,4.37,1969,latin_america
+Taiwan,4,258.7,11,231,3.26,1996,asia
+Iran,5,255.0,17,238,4.08,2000,asia
+Canada,3,227.1,11,196,1.78,1954,north_america
+Italy,7,222.0,13,263,3.73,1955,europe
+Singapore,1,216.0,8,187,3.41,1987,asia
+Malaysia,1,142.5,7,104,0.79,1996,asia
+Netherlands,2,141.8,10,109,1.48,1968,europe
+Chile,1,140.0,7,136,1.88,1975,latin_america
+Thailand,2,139.2,4,114,2.38,1999,asia
+Ukraine,3,112.8,7,88,3.64,1960,europe
+Sweden,1,108.0,7,100,3.1,1950,europe
+United Arab Emirates,1,89.5,3,53,1.26,2009,asia
+Egypt,1,89.4,3,74,0.0,1987,africa
+Greece,1,88.7,3,68,2.92,1904,europe
+Norway,1,85.0,5,101,0.87,1966,europe
+Austria,1,83.3,5,109,5.51,1976,europe
+Romania,1,78.5,5,62,2.28,1979,europe
+Qatar,1,76.0,3,37,0.0,2019,asia
+Venezuela,1,67.2,4,46,5.32,1983,latin_america
+Czech Republic,1,65.2,3,61,3.85,1974,europe
+Uzbekistan,1,57.1,4,43,0.67,1977,asia
+Argentina,1,56.7,7,104,1.3,1913,latin_america
+Bulgaria,1,52.0,4,47,1.79,1998,europe
+Portugal,1,44.2,4,56,1.93,1959,europe
+Philippines,2,54.1,3,46,5.82,1984,asia
+Belarus,1,40.8,3,33,5.37,1984,europe
+Belgium,1,39.9,4,59,2.19,1976,europe
+Hungary,1,38.2,4,48,6.09,1896,europe
+Denmark,1,38.2,4,39,1.66,2002,europe
+Azerbaijan,1,38.03,3,26,1.89,1967,asia
+Panama,1,36.8,2,29,1.38,2014,latin_america
+Australia,1,36.0,1,13,0.35,2019,australia
+Poland,1,35.5,2,34,5.5,1995,europe
+Finland,1,35.0,2,25,1.72,1982,europe
+Peru,1,34.6,1,26,3.19,2011,latin_america
+North Korea,1,22.0,2,16,1.63,1973,asia
+Colombia,1,31.3,2,27,3.68,1995,latin_america
+Dominican Republic,1,31.0,2,34,1.6,2009,latin_america
+Georgia,1,27.3,2,23,2.57,1966,asia
+Pakistan,1,27.1,1,26,0.0,2020,asia
+Algeria,1,18.5,1,19,2.4,2011,africa
+Indonesia,1,15.7,1,13,0.63,2019,asia
+Armenia,1,13.4,1,10,0.8,1981,asia
+Vietnam,1,13.1,1,12,0.0,2021,asia
+Kazakhstan,1,11.3,1,9,0.61,2011,asia
+Switzerland,1,5.9,2,48,5.55,2008,europe

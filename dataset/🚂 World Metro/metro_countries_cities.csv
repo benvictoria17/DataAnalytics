@@ -1,0 +1,199 @@
+city,country,name,year,year_last_expansion,stations,length_km,annual_ridership_mill,region
+Algiers,Algeria,Algiers Metro,2011,2018,19,185,45.3,africa
+Buenos Aires,Argentina,Buenos Aires Underground,1913,2019,90,567,74.0,latin_america
+Yerevan,Armenia,Yerevan Metro,1981,1996,10,134,10.75,asia
+Sydney,Australia,Sydney Metro,2019,2019,13,36,12.9,australia
+Vienna,Austria,Vienna U-Bahn,1976,2017,98,833,459.8,europe
+Baku,Azerbaijan,Baku Metro,1967,2021,26,3803,72.1,asia
+Minsk,Belarus,Minsk Metro,1984,2020,33,408,219.3,europe
+Brussels,Belgium,Brussels Metro,1976,2009,59,399,87.6,europe
+Belo Horizonte,Brazil,Belo Horizonte Metro,1986,2002,19,281,54.4,latin_america
+Brasília,Brazil,Brasília Metro,2001,2020,27,424,42.8,latin_america
+Porto Alegre,Brazil,Porto Alegre Metro,1985,2014,22,438,48.1,latin_america
+Recife,Brazil,Recife Metro,1985,2009,28,395,93.5,latin_america
+Rio de Janeiro,Brazil,Rio de Janeiro Metro,1979,2016,41,58,118.7,latin_america
+Salvador,Brazil,Salvador Metro,2014,2018,19,325,62.0,latin_america
+São Paulo,Brazil,São Paulo Metro,1974,2021,91,1044,763.6,latin_america
+Sofia,Bulgaria,Sofia Metro,1998,2021,47,52,92.4,europe
+Montreal,Canada,Montreal Metro,1966,2007,68,71,164.0,north_america
+Toronto,Canada,Toronto Subway,1954,2017,75,765,166.0,north_america
+Vancouver,Canada,SkyTrain,1985,2016,53,796,74.5,north_america
+Santiago,Chile,Santiago Metro,1975,2019,136,140,263.4,latin_america
+Beijing,China,Beijing Subway,1971,2021,366,762,2292.65,asia
+Changchun,China,Changchun Rail Transit,2002,2021,63,726,154.37,asia
+Changsha,China,Changsha Metro,2014,2020,100,1425,385.76,asia
+Changzhou,China,Changzhou Metro,2019,2021,43,5421,22.82,asia
+Chengdu,China,Chengdu Metro,2010,2020,285,5192,1800.0,asia
+Chongqing,China,Chongqing Rail Transit,2005,2022,210,4025,839.75,asia
+Dalian,China,Dalian Metro,2003,2021,80,20103,125.22,asia
+Dongguan,China,Dongguan Rail Transit,2016,2016,15,378,35.06,asia
+Foshan,China,Foshan Metro,2010,2021,41,719,0.0,asia
+Fuzhou,China,Fuzhou Metro,2016,2020,46,5972,94.75,asia
+Guangzhou,China,Guangzhou Metro,1997,2021,290,5894,2415.6,asia
+Guiyang,China,Guiyang Metro,2017,2021,55,757,36.98,asia
+Hangzhou,China,Hangzhou Metro,2012,2022,207,401,582.41,asia
+Harbin,China,Harbin Metro,2013,2021,63,79,51.33,asia
+Hefei,China,Hefei Metro,2016,2021,122,1562,195.07,asia
+Hohhot,China,Hohhot Metro,2019,2020,44,49039,21.3,asia
+Hong Kong,China,Mass Transit Railway,1979,2021,97,2044,1155.8,asia
+Jinan,China,Jinan Metro,2019,2021,40,843,8.68,asia
+Kunming,China,Kunming Metro,2012,2020,84,1394,159.26,asia
+Lanzhou,China,Lanzhou Metro,2019,2019,20,259,52.48,asia
+Luoyang,China,Luoyang Subway,2021,2021,33,435,0.0,asia
+Nanchang,China,Nanchang Metro,2015,2021,103,1286,135.93,asia
+Nanjing,China,Nanjing Metro,2005,2021,175,427,801.34,asia
+Nanning,China,Nanning Metro,2016,2021,94,1288,208.41,asia
+Ningbo,China,Ningbo Rail Transit,2014,2021,114,1825,159.86,asia
+Qingdao,China,Qingdao Metro,2015,2021,138,2843,139.09,asia
+Shanghai,China,Shanghai Metro,1993,2021,396,803,2834.69,asia
+Shaoxing,China,Shaoxing Metro,2021,2021,10,203,0.0,asia
+Shenyang,China,Shenyang Metro,2010,2020,91,116,316.28,asia
+Shenzhen,China,Shenzhen Metro,2004,2021,288,419,1626.73,asia
+Shijiazhuang,China,Shijiazhuang Metro,2017,2021,60,765,71.71,asia
+Suzhou,China,Suzhou Rail Transit,2012,2021,154,2108,308.57,asia
+Taiyuan,China,Taiyuan Metro,2020,2020,23,2365,0.876,asia
+Tianjin,China,Tianjin Metro,1984,2021,164,265,338.75,asia
+Ürümqi,China,Ürümqi Metro,2018,2019,21,276,19.11,asia
+Wenzhou,China,Wenzhou Rail Transit,2019,2019,18,535,7.01,asia
+Wuhan,China,Wuhan Metro,2004,2021,247,435,628.03,asia
+Wuhu,China,Wuhu Rail Transit,2021,2021,36,4625,0.0,asia
+Wuxi,China,Wuxi Metro,2014,2021,87,1148,87.22,asia
+Xiamen,China,Xiamen Metro,2017,2021,65,987,113.97,asia
+Xi'an,China,Xi'an Metro,2011,2021,164,26638,731.04,asia
+Xuzhou,China,Xuzhou Metro,2019,2021,51,6435,20.94,asia
+Zhengzhou,China,Zhengzhou Metro,2013,2021,126,2063,341.01,asia
+Medellín,Colombia,Medellín Metro,1995,2012,27,313,115.4,latin_america
+Prague,Czech Republic,Prague Metro,1974,2015,58,652,251.4,europe
+Copenhagen,Denmark,Copenhagen Metro,2002,2020,39,382,63.7,europe
+Santo Domingo,Dominican Republic,Santo Domingo Metro,2009,2018,34,310,49.6,latin_america
+Cairo,Egypt,Cairo Metro,1987,2020,71,894,1314.0,africa
+Helsinki,Finland,Helsinki Metro,1982,2017,25,35,60.4,europe
+Lille,France,Lille Metro,1983,2000,60,45,127.6,europe
+Lyon,France,Lyon Metro,1978,2013,40,320,219.5,europe
+Marseille,France,Marseille Metro,1977,2019,29,223,76.6,europe
+Paris,France,Paris Métro,1900,2022,306,2251,753.0,europe
+Rennes,France,Rennes Metro,2002,2002,15,94,37.2,europe
+Toulouse,France,Toulouse Metro,1993,2007,37,282,118.2,europe
+Tbilisi,Georgia,Tbilisi Metro,1966,2017,23,271,69.78,asia
+Berlin,Germany,Berlin U-Bahn,1902,2021,175,1478,596.0,europe
+Hamburg,Germany,Hamburg U-Bahn,1912,2019,93,1058,249.5,europe
+Munich,Germany,Munich U-Bahn,1971,2010,96,95,429.0,europe
+Nuremberg,Germany,Nuremberg U-Bahn,1972,2020,49,382,114.6,europe
+Athens,Greece,Athens Metro,1904,2020,64,887,259.2,europe
+Budapest,Hungary,Budapest Metro,1896,2014,48,382,232.8,europe
+Ahmedabad,India,Ahmedabad Metro,2019,2019,6,65,0.4,asia
+Bengaluru,India,Namma Metro,2011,2021,51,56,174.22,asia
+Chennai,India,Chennai Metro,2015,2021,42,54,42.0,asia
+Delhi,India,Delhi Metro,2002,2021,230,34812,1790.0,asia
+Gurgaon,India,Rapid Metro,2013,2017,11,117,18.3,asia
+Hyderabad,India,Hyderabad Metro,2017,2020,56,69,173.0,asia
+Jaipur,India,Jaipur Metro,2015,2020,11,120,7.0,asia
+Kanpur,India,Kanpur Metro,2021,2021,9,898,0.0,asia
+Kochi,India,Kochi Metro,2017,2020,22,249,17.0,asia
+Kolkata,India,Kolkata Metro,1984,2021,33,3826,256.0,asia
+Lucknow,India,Lucknow Metro,2017,2019,21,2287,22.0,asia
+Mumbai,India,Mumbai Metro,2014,2014,12,114,126.0,asia
+Nagpur,India,Nagpur Metro,2019,2021,24,261,4.0,asia
+Noida,India,Noida Metro,2019,2019,21,297,5.0,asia
+Pune,India,Pune Metro,2022,2022,10,12,0.0,asia
+Jakarta,Indonesia,Jakarta MRT,2019,2019,13,157,9.9,asia
+Isfahan,Iran,Isfahan Urban Railway,2015,2018,20,202,0.0,asia
+Mashhad,Iran,Mashhad Urban Railway,2011,2019,35,375,50.7,asia
+Shiraz,Iran,Shiraz Metro,2014,2020,20,245,18.0,asia
+Tabriz,Iran,Tabriz Metro,2015,2020,15,172,0.0,asia
+Tehran,Iran,Tehran Metro,2000,2021,122,1556,820.0,asia
+Brescia,Italy,Brescia Metro,2013,2013,17,137,18.7,europe
+Catania,Italy,Catania Metro,1999,2021,10,88,5.8,europe
+Genoa,Italy,Genoa Metro,1990,2012,8,71,15.3,europe
+Milan,Italy,Milan Metro,1964,2015,106,968,386.8,europe
+Naples,Italy,Naples Metro,1993,2021,23,205,41.1,europe
+Rome,Italy,Rome Metro,1955,2018,73,60,320.0,europe
+Turin,Italy,Turin Metro,2006,2021,23,151,42.5,europe
+Fukuoka,Japan,Fukuoka City Subway,1981,2005,35,298,173.3,asia
+Hiroshima,Japan,Astram Line,1994,2015,21,184,24.0,asia
+Kobe,Japan,Kobe Municipal Subway,1977,2001,28,381,114.2,asia
+Kyoto,Japan,Kyoto Municipal Subway,1981,2008,31,312,146.4,asia
+Nagoya,Japan,Nagoya Municipal Subway,1957,2011,87,933,487.4,asia
+Osaka,Japan,Osaka Metro,1933,2006,100,1299,870.4,asia
+Sapporo,Japan,Sapporo Municipal Subway,1971,1999,46,480,226.9,asia
+Sendai,Japan,Sendai Subway,1987,2015,29,287,91.7,asia
+Tokyo,Japan,Toei Subway,1960,2002,99,1090,1174.9,asia
+Tokyo,Japan,Tokyo Metro,1927,2020,142,1951,2757.4,asia
+Tokyo,Japan,Rinkai Line,1996,2002,8,122,95.0,asia
+Yokohama,Japan,Yokohama Municipal Subway,1972,2008,40,534,243.2,asia
+Yokohama,Japan,Minatomirai Line,2004,2008,6,41,80.6,asia
+Almaty,Kazakhstan,Almaty Metro,2011,2015,9,113,7.0,asia
+Pyongyang,North Korea,Pyongyang Metro,1973,1987,17,225,36.0,asia
+Busan,South Korea,Busan Metro,1985,2017,135,1399,361.0,asia
+Daegu,South Korea,Daegu Metro,1997,2015,58,812,168.0,asia
+Daejeon,South Korea,Daejeon Metro,2006,2007,22,227,40.0,asia
+Gwangju,South Korea,Gwangju Metro,2004,2008,20,201,19.0,asia
+Incheon,South Korea,Incheon Subway,1999,2020,56,594,116.0,asia
+Seoul,South Korea,Seoul Metropolitan Subway,1974,2021,339,3649,2127.2,asia
+Seoul,South Korea,Korail metro lines,1994,2020,86,1517,426.4,asia
+Seoul,South Korea,Shinbundang Line (Neo Trans),2011,2016,12,313,122.5,asia
+Kuala Lumpur,Malaysia,Rapid KL,1996,2017,104,1425,113.2,asia
+Guadalajara,Mexico,Tren Eléctrico Urbano,1989,2020,18,215,0.0,latin_america
+Mexico City,Mexico,Mexico City Metro,1969,2012,163,2009,935.2,latin_america
+Monterrey,Mexico,Metrorrey,1991,2021,38,405,109.9,latin_america
+Amsterdam,Netherlands,Amsterdam Metro,1977,2018,39,412,111.3,europe
+Rotterdam,Netherlands,Rotterdam Metro,1968,2019,70,1006,99.0,europe
+Oslo,Norway,Oslo Metro,1966,2016,101,85,74.0,europe
+Lahore,Pakistan,Lahore Metro,2020,2020,26,271,20.0,asia
+Panama City,Panama,Panama Metro,2014,2019,29,368,49.9,latin_america
+Lima,Peru,Lima Metro,2011,2014,26,346,110.4,latin_america
+Manila,Philippines,Manila Light Rail Transit System,1984,2021,33,372,218.2,asia
+Manila,Philippines,Manila Metro Rail Transit System,1999,2000,13,169,96.9,asia
+Warsaw,Poland,Warsaw Metro,1995,2020,33,355,195.4,europe
+Lisbon,Portugal,Lisbon Metro,1959,2016,56,442,184.6,europe
+Doha,Qatar,Doha Metro,2019,2019,36,76,0.0,asia
+Bucharest,Romania,Bucharest Metro,1979,2020,63,785,179.2,europe
+Kazan,Russia,Kazan Metro,2005,2018,11,168,21.5,asia
+Moscow,Russia,Moscow Metro,1935,2021,203,4357,1618.2,asia
+Nizhny Novgorod,Russia,Nizhny Novgorod Metro,1985,2018,15,216,20.4,asia
+Novosibirsk,Russia,Novosibirsk Metro,1986,2010,13,159,58.1,asia
+Saint Petersburg,Russia,Saint Petersburg Metro,1955,2019,64,1248,495.0,asia
+Samara,Russia,Samara Metro,1987,2015,10,116,8.8,asia
+Yekaterinburg,Russia,Yekaterinburg Metro,1991,2012,9,127,27.3,asia
+Singapore,Singapore,Mass Rapid Transit,1987,2021,127,216,738.4,asia
+Barcelona,Spain,Barcelona Metro,1924,2021,166,1472,217.93,europe
+Bilbao,Spain,Metro Bilbao,1995,2020,42,451,91.6,europe
+Madrid,Spain,Madrid Metro,1919,2019,242,2885,349.8,europe
+Stockholm,Sweden,Stockholm Metro,1950,1994,100,108,355.0,europe
+Lausanne,Switzerland,Lausanne Métro,2008,2008,14,59,32.8,europe
+Kaohsiung,Taiwan,Kaohsiung Rapid Transit,2008,2012,37,427,65.4,asia
+Taipei,Taiwan,Taipei Metro,1996,2020,119,1462,695.7,asia
+Taichung,Taiwan,Taichung Metro,2021,2021,18,167,0.0,asia
+Taoyuan,Taiwan,Taoyuan Metro,2017,2017,22,531,28.0,asia
+Bangkok,Thailand,BTS Skytrain,1999,2021,60,682,236.9,asia
+Bangkok,Thailand,Metropolitan Rapid Transit,2004,2019,53,71,95.3,asia
+Adana,Turkey,Adana Metro,2009,2010,13,139,14.0,asia
+Ankara,Turkey,Ankara Metro,1997,2017,56,6436,66.4,asia
+Bursa,Turkey,Bursaray,2002,2014,38,389,91.3,asia
+Istanbul,Turkey,Istanbul Metro,1989,2021,107,1357,262.3,asia
+İzmir,Turkey,İzmir Metro,2000,2014,17,20,100.0,asia
+Dnipro,Ukraine,Dnipro Metro,1995,1995,6,71,3.55,europe
+Kharkiv,Ukraine,Kharkiv Metro,1975,2016,30,381,128.1,europe
+Kyiv,Ukraine,Kyiv Metro,1960,2013,52,676,279.5,europe
+Dubai,United Arab Emirates,Dubai Metro,2009,2021,56,895,113.6,asia
+Glasgow,United Kingdom,Glasgow Subway,1896,1896,15,104,12.7,europe
+London,United Kingdom,London Underground,1890,2021,272,4052,296.0,europe
+London,United Kingdom,Docklands Light Railway,1987,2011,45,34,39.9,europe
+Atlanta,United States,MARTA,1979,2000,38,766,24.1,north_america
+Baltimore,United States,Baltimore Metro SubwayLink,1983,1995,14,249,2.9,north_america
+Boston,United States,MBTA subway,1901,2014,51,61,57.5,north_america
+Chicago,United States,"Chicago ""L""",1892,2017,145,1654,76.0,north_america
+Cleveland,United States,RTA Rapid Transit: Red Line,1955,1968,18,31,2.6,north_america
+Los Angeles,United States,Metro Rail,1993,2000,16,280,22.8,north_america
+Miami,United States,Metrorail,1984,2012,23,401,9.6,north_america
+New York City,United States,New York City Subway,1904,2017,424,399,639.5,north_america
+New York City,United States,Staten Island Railway,1925,2017,21,225,2.7,north_america
+New York City,United States,PATH,1908,1937,13,222,29.7,north_america
+Philadelphia,United States,SEPTA,1907,1973,75,591,37.7,north_america
+Philadelphia,United States,PATCO Speedline,1936,1980,13,229,3.9,north_america
+San Francisco/Oakland,United States,BART,1972,2020,47,1868,34.1,north_america
+San Juan,United States,Tren Urbano,2004,2005,16,172,1.1,north_america
+"Washington, D.C.",United States,Washington Metro,1976,2014,91,188,68.1,north_america
+Tashkent,Uzbekistan,Tashkent Metro,1977,2020,39,571,38.8,asia
+Caracas,Venezuela,Caracas Metro,1983,2015,52,672,358.0,latin_america
+Hanoi,Vietnam,Hanoi Metro,2021,2021,12,131,0.0,asia
