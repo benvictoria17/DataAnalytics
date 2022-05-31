@@ -1,0 +1,47 @@
+﻿Name,Type,Alignment,Health,Mana,Damage,AttackSpeed,Range,Armor,MovementSpeed
+Rexxar The Beastmaster,Strength,Sentinel,587,208,58,0.69,128,5,310
+Bradwarden the Centaur Warchief,Strength,Sentinel,587,195,56,0.68,100,3,300
+Raigor Stonehoof the Earthshaker,Strength,Sentinel,568,208,51,0.66,128,3,300
+Purist Thunderwrath the Omniknight,Strength,Sentinel,530,221,56,1.44,100,4,300
+Mangix the Pandaren Brewmaster,Strength,Sentinel,587,182,56,0.68,128,3,300
+Sven the Rogue Knight,Strength,Sentinel,587,182,55,0.71,150,1.94,295
+Io the Guardian Wisp,Strength,Sentinel,473,299,47,0.67,575,0,295
+Razzil Darkbrew the Alchemist,Strength,Sentinel,625,325,54,0.65,128,1,295
+Davion the Dragon Knight,Strength,Sentinel,511,195,48,0.7,128,5,290
+Huskar the Sacred Warrior,Strength,Sentinel,492,234,45,0.75,400,2,300
+Lyov the Bristleback,Strength,Sentinel,568,182,49,1.5,150,2,900
+Kunkka the Admiral,Strength,Sentinel,549,234,51,0.67,300,1.96,300
+Azwraith The Phantom Lancer,Agility,Sentinel,492,273,56,0.72,128,3,290
+Luna Moonfang The Moon Rider,Agility,Sentinel,435,208,46,0.72,330,3,330
+Slithice Naga Siren,Agility,Sentinel,549,234,57,0.71,128,6,320
+Aurel Vlaicu The Gyrocopter,Agility,Sentinel,492,299,46,0.73,375,2,305
+Rylai Crestfall The Crystal Maiden,Agility,Sentinel,454,273,41,0.68,600,1,280
+Xin The Ember Spirit,Agility,Sentinel,511,260,54,0.71,128,1.08,310
+Gondar The Bounty Hunter,Agility,Sentinel,473,208,52,0.71,128,6,315
+Traxex Drow Ranger,Agility,Sentinel,473,195,45,0.72,625,2,300
+Lanaya The Templar Assasin,Agility,Sentinel,492,260,56,0.72,140,4,305
+Mirana Nightshade Priestess of the Moon,Agility,Sentinel,473,221,43,0.71,600,2,300
+Aiushtha The Enchantress,Intelligence,Sentinel,454,208,52,0.7,550,2,305
+Puck The Faerie Dragon,Intelligence,Sentinel,435,325,48,0.72,550,2,295
+Chen The Holy Knight,Intelligence,Sentinel,530,273,48,0.68,600,1,300
+Ezalor The Keeper of the Light,Intelligence,Sentinel,454,286,41,0.68,600,1,315
+Furion The Prophet,Intelligence,Sentinel,511,273,52,1.7,128,3.52,300
+Nortrom The Silencer,Intelligence,Sentinel,473,273,50,0.58,600,1.24,300
+Lina Inverse The Slayer,Intelligence,Sentinel,492,351,49,1.7,625,1.24,280
+Squee Spleen and Spoon The Goblin Techies,Intelligence,Sentinel,473,286,30,0.67,650,1,270
+Boush The Tinker,Intelligence,Sentinel,473,351,52,0.66,500,5,305
+Kael The Invoker,Intelligence,Source,511,286,42,0.71,600,2,280
+Nessaj Chaos Knight,Strength,Source,530,208,65,0.66,128,3,325
+Banehallow The Lycanthrope,Strength,Source,568,195,55,0.68,128,1,305
+Balanar The Nightstalker,Strength,Source,587,208,59,0.69,128,6,295
+Meepo The Geomancer,Agility,Source,492,234,54,0.69,400,4,305
+Lesale Deathbringer the Venomancer,Agility,Source,492,234,52,1.7,450,3.08,290
+Clinkz Eastwood Bone Fletcher,Agility,Source,435,208,40,0.58,600,2.08,300
+Black Arachnia Broodmother,Agility,Source,473,234,47,0.69,128,3,295
+Anub'arak The Nerubian Assassin,Agility,Source,492,234,51,1.7,128,3.66,300
+Anub'seran the Nerubian Weaver,Agility,Source,435,195,51,0.96,425,1.7,290
+Visage,Intelligence,Source,568,273,50,1.7,600,1,295
+Dazzle The Shadow Priest,Intelligence,Source,454,351,50,0.71,500,2,305
+Atropos The Bane Elemental,Intelligence,Source,492,234,54,0.69,400,4,305
+Akasha Queen of Pain,Intelligence,Source,454,321,49,0.69,550,2,300
+Warlock,Intelligence,Source,492,312,51,1.7,600,2.4,295

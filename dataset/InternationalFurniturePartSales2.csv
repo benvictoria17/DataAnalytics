@@ -1,0 +1,1104 @@
+Country,Province/State,City,Txns,Units,Sales,Latitude,Longitude
+ Afghanistan,N/A,Kabul,13541,320114,1247138,34°32'N,69°10'E
+ Albania,N/A,Tirana,5360,71756,118846,41°20'N,19°49'E
+ Algeria,N/A,Algiers,13975,172246,882877,36°46'N,3°13'E
+ Algeria,N/A,Tiaret,16663,149924,416243,35°22'N,1°19'E
+ Andorra,N/A,Andorra la Vella,26368,423483,2342921,42°30'N,1°30'E
+ Angola,N/A,Huambo,12088,259888,916231,12°46'S,15°44'E
+ Angola,N/A,Luanda,13287,10868,82214,8°50'S,13°14'E
+ Antigua and Barbuda,N/A,St. John's,18248,511186,1377570,17°07'N,61°51'W
+ Argentina, Buenos Aires Province,Bahía Blanca,13077,204408,542825,38°43'S,62°16'W
+ Argentina, Salta,Salta,26475,658066,1080766,24°47'S,65°25'W
+ Argentina, Tierra del Fuego,Ushuaia,20766,38545,1007072,54°48'S,68°18'W
+ Argentina, Chubut,Trelew,6873,185924,179623,43°15'S,65°18'W
+ Argentina, Santa Cruz,Río Gallegos,3306,10947,123620,51°38'S,69°13'W
+ Argentina, Mendoza,Mendoza,23553,110579,386346,32°53'S,68°49'W
+ Argentina, Tucumán,San Miguel de Tucumán,25455,736860,2122334,26°49'S,65°13'W
+ Argentina, Neuquén,Neuquén,26741,189250,1851756,38°57'S,68°03'W
+ Argentina,Río Negro Province Río Negro,San Carlos de Bariloche,18009,325228,29306,41°09'S,71°18'W
+ Argentina, Santa Fe,Rosario,27435,66466,1373542,32°57'S,60°40'W
+ Argentina, Santa Fe,Santa Fe,29092,225943,245462,31°38'S,60°42'W
+ Argentina, Argentine Antarctica,Esperanza,15230,62791,932192,63°24'S,56°59'W
+ Argentina, Córdoba,Córdoba,8816,98579,872263,31°25'S,64°11'W
+ Argentina, Chubut,Comodoro Rivadavia,15391,392825,503465,45°52'S,67°29'W
+ Argentina, San Juan,San Juan,15969,384044,1226387,31°32'S,68°32'W
+ Argentina, Buenos Aires Province,Mar del Plata,21812,27606,1120228,38°00'S,57°33'W
+ Argentina, Corrientes,Corrientes,11796,210110,378391,27°29'S,58°49'W
+ Argentina,,Buenos Aires,18869,428737,121723,34°36'S,58°23'W
+ Armenia,N/A,Yerevan,12529,344108,121193,40°11'N,44°31'E
+ Australia, Victoria,Geelong,3122,27395,80391,38°09'S,144°21'E
+ Australia, Northern Territory,Darwin,16962,79823,798385,12°27'S,130°50'E
+ Australia, Western Australia,Port Hedland,20795,445635,63393,20°19'S,118°36'E
+ Australia, New South Wales,Sydney,8275,175281,594380,33°52'S,151°13'E
+ Australia, Western Australia,Perth,10131,169206,126776,31°57'S,115°52'E
+ Australia, Tasmania,"Launceston, Tasmania",2413,53210,17190,41°26'S,147°08'E
+ Australia, New South Wales,Newcastle,176,1219,4366,32°55'S,151°45'E
+ Australia, South Australia,Adelaide,2204,16606,86317,34°56'S,138°36'E
+ Australia, Queensland,Rockhampton,4468,109985,420440,23°23'S,150°31'E
+ Australia, New South Wales,Wollongong,7369,152146,88584,34°26'S,150°53'E
+ Australia, Queensland,Townsville,4495,92195,60441,19°15'S,146°49'E
+ Australia, Western Australia,Mandurah,28589,774097,2311529,32°32'S,115°43'E
+ Australia, Queensland,Brisbane,11009,242965,262056,27°28'S,153°02'E
+ Australia, Australian Capital Territory,Canberra,12246,51223,439481,35°18'S,149°07'E
+ Australia,Victoria (Australia) Victoria,Melbourne,9393,148403,803639,37°49'S,144°58'E
+ Australia, Queensland,Gold Coast,18510,502752,412480,28°01'S,153°24'E
+ Australia, Tasmania,Hobart,2933,30629,31128,42°53'S,147°20'E
+ Australia, Queensland,Cairns,15513,30805,1225150,16°56'S,145°47'E
+ Australia, Norfolk Island,Kingston,23549,621686,1735283,29°04'S,167°58'E
+ Austria, Upper Austria,Linz,28987,698992,419327,48°18'N,14°17'E
+ Austria, Tyrol,Innsbruck,4598,98833,321624,47°16'N,11°23'E
+ Austria, Styria,Graz,8747,34220,812515,47°04'N,15°26'E
+ Austria, Salzburg,Salzburg,12120,289698,16011,47°48'N,13°02'E
+ Austria, Vienna,Vienna,6459,176988,560015,48°13'N,16°22'E
+ Azerbaijan,N/A,Baku,23927,202487,1276104,40°24'N,49°53'E
+ Azerbaijan  Artsakh (disputed), Artsakh,Stepanakert,26051,193244,2162296,39°49'N,46°45'E
+ Bahamas,N/A,Nassau,12999,105078,688270,25°04'N,77°20'W
+ Bahrain,N/A,Manama,29727,833606,1120403,26°13'N,50°35'E
+ Bangladesh,N/A,Dhaka,18377,298228,1304398,23°42'N,90°23'E
+ Bangladesh,N/A,Chittagong,4106,53446,147951,22°22'N,91°48'E
+ Barbados,N/A,Bridgetown,375,10406,15701,13°06'N,59°37'W
+ Belarus,N/A,Minsk,13236,293259,553565,53°54'N,27°34'E
+ Belarus,Gomel Voblast,Gomel,16482,480063,77655,52°26'N,30°59'E
+ Belgium, Flanders,Ghent,23437,309064,309178,51°03'N,3°44'E
+ Belgium, Brussels,Brussels,8992,255467,243110,50°51'N,4°21'E
+ Belgium, Flanders,Antwerp,19846,149993,911710,51°13'N,4°24'E
+ Belgium,N/A,Charleroi,13437,360326,273798,50°24'N,4°26'E
+ Belize,N/A,Belmopan,28114,465730,1240970,17°15'N,88°46'W
+ Belize,N/A,Belize City,21615,428091,1184226,17°30'N,88°11'W
+ Benin,N/A,Porto-Novo,5052,86295,292613,6°30'N,2°36'E
+ Benin,N/A,Cotonou,28169,326274,2693536,6°22'N,2°26'E
+ Bhutan,N/A,Thimphu,26287,53861,2167632,27°28'N,89°39'E
+ Bolivia,N/A,Santa Cruz de la Sierra,20615,258059,2000313,17°48'S,63°10'W
+ Bolivia,N/A,Sucre,25210,76150,485139,19°03'S,65°15'W
+ Bolivia,N/A,La Paz,21499,261293,1458909,16°30'S,68°09'W
+ Bosnia and Herzegovina,N/A,Sarajevo,29442,459326,582617,43°51'N,18°21'E
+ Botswana,N/A,Gaborone,9250,228508,100368,24°39'S,25°55'E
+ Botswana,N/A,Francistown,21224,482031,838921,21°10'S,27°31'E
+ Brazil, Pernambuco,Petrolina,22995,461938,46055,9°24'S,40°30'W
+ Brazil, Ceará,Juazeiro do Norte,23795,238350,1996825,7°12'S,39°20'W
+ Brazil, Rio de Janeiro,Rio de Janeiro,22369,125937,784979,22°55'S,43°12'W
+ Brazil, Pernambuco,Garanhuns,24775,214044,1459562,8°53'S,36°30'W
+ Brazil, Pernambuco,Recife,10408,102160,504829,8°03'S,34°54'W
+ Brazil, Rio Grande do Sul,Pelotas,5571,22285,90008,31°46'S,52°21'W
+ Brazil, Pernambuco,Caruaru,5039,118011,427317,8°17'S,35°59'W
+ Brazil, Ceará,Sobral,25805,279518,2357911,3°40'S,40°14'W
+ Brazil, Espírito Santo,Vitória,11182,24708,135696,20°19'S,40°20'W
+ Brazil, Sergipe,Aracaju,1572,46062,104576,10°55'S,37°03'W
+ Brazil, Minas Gerais,Juiz de Fora,16500,306807,880563,21°46'S,43°21'W
+ Brazil, Acre,Rio Branco,25633,213877,39301,9°58'S,67°49'W
+ Brazil, Paraíba,Campina Grande,602,11043,3641,7°14'S,35°53'W
+ Brazil, Ceará,Fortaleza,17737,290533,480704,3°43'S,38°33'W
+ Brazil, Roraima,Boa Vista,19676,529997,149878,2°49'N,60°40'W
+ Brazil, Minas Gerais,Belo Horizonte,3395,95428,173085,19°55'S,43°56'W
+ Brazil, Rio Grande do Norte,Natal,16116,23077,455715,5°47'S,35°12'W
+ Brazil, São Paulo,Assis,19979,63651,433930,22°40'S,50°25'W
+ Brazil, São Paulo,Bauru,26098,515509,1445790,22°19'S,49°04'W
+ Brazil, Minas Gerais,Uberlândia,11890,273760,995069,18°55'S,48°17'W
+ Brazil, Bahia,Ilhéus,21399,303044,2114879,14°47'S,39°03'W
+ Brazil, Pará,Belém,4627,41070,3477,1°27'S,48°30'W
+ Brazil, São Paulo,Araraquara,16579,186383,10716,21°48'S,48°11'W
+ Brazil, Piauí,Teresina,17987,112507,316505,5°06'S,42°48'W
+ Brazil, Maranhão,Imperatriz,14899,147468,1262467,5°32'S,47°29'W
+ Brazil, São Paulo,São José dos Campos,14013,98917,829177,23°11'S,45°53'W
+ Brazil, Mato Grosso,Cuiabá,14723,119861,452698,15°36'S,56°06'W
+ Brazil, Bahia,Salvador,8383,76294,772278,12°58'S,38°29'W
+ Brazil, Alagoas,Maceió,22669,284634,789645,9°40'S,35°44'W
+ Brazil, São Paulo,Campinas,22682,379836,1953249,22°54'S,47°03'W
+ Brazil, Rio Grande do Sul,Chuí,10172,42750,459133,33°41'S,53°27'W
+ Brazil, Santa Catarina,Florianópolis,29940,638152,1422025,27°50'S,48°25'W
+ Brazil, São Paulo,São Paulo,22246,506029,1383566,23°33'S,46°38'W
+ Brazil, São Paulo,Ribeirão Preto,11782,337392,572853,21°11'S,47°48'W
+ Brazil, Maranhão,São Luís,7012,86806,305434,2°32'S,44°18'W
+ Brazil, Goiás,Goiânia,27217,391962,575453,16°40'S,49°15'W
+ Brazil, Mato Grosso,Sinop,19875,375998,1800083,11°51'S,55°39'W
+ Brazil, Paraná,Curitiba,3219,71324,74104,25°25'S,49°15'W
+ Brazil, Minas Gerais,Poços de Caldas,16771,222212,913582,21°47'S,46°34'W
+ Brazil, Rondônia,Porto Velho,15138,271760,1110594,8°46'S,63°54'W
+ Brazil, Pernambuco,Fernando de Noronha,19581,514984,1128791,3°51'S,32°25'W
+ Brazil,Federal District (Brazil) Distrito Federal,Brasília,26562,401047,749395,15°48'S,47°52'W
+ Brazil, Mato Grosso do Sul,Campo Grande,26738,55949,1661117,20°28'S,54°37'W
+ Brazil, Amapá,Macapá,15112,33992,1471235,0°02'N,51°04'W
+ Brazil, Paraíba,João Pessoa,10798,179068,435255,7°05'S,34°50'W
+ Brazil, São Paulo,São José do Rio Preto,8943,63385,354320,20°48'S,49°23'W
+ Brazil, Minas Gerais,Governador Valadares,25817,562042,1147534,18°51'S,41°56'W
+ Brazil, Tocantins,Palmas,6204,182427,365567,10°11'S,48°20'W
+ Brazil, Amazonas,Manaus,19579,173330,1010279,3°06'S,60°01'W
+ Brunei,N/A,Bandar Seri Begawan,23913,672709,918533,4°53'N,114°57'E
+ Bulgaria,N/A,Sofia,15697,156749,287200,42°42'N,23°20'E
+ Burkina Faso,N/A,Ouagadougou,3549,37753,78771,12°21'N,1°32'W
+ Burkina Faso,N/A,Bobo-Dioulasso,22694,62309,1657471,11°11'N,4°17'W
+ Burundi,N/A,Bujumbura,11987,242629,375096,3°23'S,29°22'E
+ Cambodia,N/A,Siem Reap,25733,700597,789554,13°22'N,103°52'E
+ Cambodia,N/A,Phnom Penh,13316,371820,413729,11°33'N,104°55'E
+ Cameroon,N/A,Douala,26385,55388,1998753,4°03'N,9°42'E
+ Cameroon,N/A,Yaoundé,9905,276098,734797,3°52'N,11°31'E
+ Canada, Ontario,Colchester,1470,11406,108773,41°59'N,82°56'W
+ Canada, Ontario,Sudbury,15716,317753,21181,46°29'N,81°01'W
+ Canada, Quebec,Quebec City,5390,102678,519293,46°49'N,71°13'W
+ Canada, Ontario,Thunder Bay,2646,32917,176599,48°23'N,89°15'W
+ Canada, Ontario,Windsor,15901,159015,474050,42°17'N,83°00'W
+ Canada, Nova Scotia,New Glasgow,9225,22668,472501,45°36'N,62°39'W
+ Canada, Northwest Territories,Inuvik,3850,14488,299709,68°21'N,133°43'W
+ Canada, Alberta,Grande Prairie,26823,567795,650436,55°10'N,118°48'W
+ Canada, Nova Scotia,Yarmouth,8596,110883,124003,43°50'N,66°07'W
+ Canada, Ontario,London,153,938,1009,42°59'N,81°15'W
+ Canada, Yukon,Whitehorse,5867,97763,260841,60°43'N,135°03'W
+ Canada, New Brunswick,Saint John,15264,143260,1490034,45°17'N,66°05'W
+ Canada, Saskatchewan,Saskatoon,8247,9455,640577,52°08'N,106°41'W
+ Canada, New Brunswick,Moncton,22543,247498,157567,46°08'N,64°46'W
+ Canada, Ontario,Sault Ste. Marie,2197,1230,127991,46°32'N,84°21'W
+ Canada, New Brunswick,Fredericton,16132,322477,79182,45°57'N,66°40'W
+ Canada, Ontario,Toronto,15379,251208,471278,43°42'N,79°24'W
+ Canada, Nunavut,Eureka,16465,334512,307306,79°59'N,85°56'W
+ Canada, Northwest Territories,Yellowknife,26857,140443,1664984,62°27'N,114°24'W
+ Canada, Nova Scotia,Halifax,11275,28014,733349,44°51'N,63°12'W
+ Canada, Nunavut,Alert,12387,31106,287094,82°30'N,62°20'W
+ Canada, Ontario,North Bay,21894,69279,191591,46°18'N,79°27'W
+ Canada, Alberta,Fort McMurray,5074,67315,84907,56°44'N,111°23'W
+ Canada, Prince Edward Island,Charlottetown,22047,384903,341584,46°14'N,63°09'W
+ Canada, Manitoba,Winnipeg,28720,71657,923263,49°54'N,97°08'W
+ Canada, Newfoundland and Labrador,St. John's,21089,419990,680658,47°34'N,52°42'W
+ Canada, British Columbia,Vancouver,6906,98026,106598,49°15'N,123°06'W
+ Canada, Nunavut,Iqaluit,16961,453052,1508996,63°45'N,68°31'W
+ Canada, Saskatchewan,Regina,3192,77714,301622,50°27'N,104°36'W
+ Canada, Quebec,Montreal,26999,355051,784918,45°30'N,73°34'W
+ Canada, Ontario,Ottawa,20411,425061,1628577,45°25'N,75°41'W
+ Canada, Northwest Territories,Tuktoyaktuk,29250,605931,856602,69°27'N,133°02'W
+ Canada, Quebec,Saguenay,18633,121134,1027622,48°25'N,71°04'W
+ Canada, Nunavut,Grise Fiord,28649,803565,1050346,76°25'N,82°54'W
+ Canada, Alberta,Calgary,17892,131531,60557,51°03'N,114°04'W
+ Canada, British Columbia,Prince George,3381,80483,296230,53°55'N,122°44'W
+ Canada, Alberta,Edmonton,14061,91233,870326,53°32'N,113°30'W
+ Canada, British Columbia,Kamloops,15075,114347,305871,50°41'N,120°20'W
+ Canada, British Columbia,Kelowna,19504,127381,1689947,49°53'N,119°30'W
+ Canada, British Columbia,Victoria,8632,72829,784526,48°26'N,123°22'W
+ Cape Verde,N/A,Praia,8017,76653,298638,14°55'N,23°31'W
+ Central African Republic,N/A,Bangui,4293,92214,302865,4°22'N,18°35'E
+ Chad,N/A,Moundou,1257,12508,40886,8°34'N,16°05'E
+ Chad,N/A,N'Djamena,10065,247776,671273,12°07'N,15°03'E
+ Chile,N/A,Copiapó,27914,106316,634173,27°22'S,70°20'W
+ Chile,Magallanes,Punta Arenas,3338,82484,163304,53°10'S,70°56'W
+ Chile,Magallanes,Puerto Toro,26262,471673,857890,55°05'S,67°05'W
+ Chile,N/A,Temuco,12879,242157,73494,38°45'S,72°40'W
+ Chile,N/A,Arica,18155,252069,623149,18°29'S,70°20'W
+ Chile,N/A,La Serena,17905,455673,1038115,29°54'S,71°15'W
+ Chile,N/A,Concepción,10778,86919,456482,36°50'S,73°03'W
+ Chile,Easter Island,Hanga Roa,27700,762052,1663253,27°09'S,109°26'W
+ Chile,Aysén,Puerto Aisén,17938,172497,53997,45°24'S,72°41'W
+ Chile,Los Lagos,Puerto Montt,27396,524310,1757330,41°28'S,72°56'W
+ Chile,N/A,Antofagasta,23534,177295,2187490,23°39'S,70°24'W
+ Chile,N/A,Valdivia,17500,159991,948101,39°49'S,73°15'W
+ Chile, Antártica Chilena Province,Villa Las Estrellas,581,12041,15240,62°12'S,58°58'W
+ Chile,Aysén,Coihaique,2608,73933,7462,45°34'S,72°04'W
+ Chile, Santiago Metropolitan Region,Santiago,8604,59708,469349,33°27'S,70°40'W
+ Chile,N/A,Iquique,26579,338439,869383,20°13'S,70°09'W
+ Chile,Magallanes,Puerto Williams,26131,627911,1224738,54°56'S,67°37'W
+ Chile,N/A,Calama,24615,250436,1014464,22°28'S,68°56'W
+ Chile, Valparaíso Region,Valparaíso,18404,534861,1391391,33°03'S,71°37'W
+ Chile, Valparaíso Region,Viña del Mar,23288,482201,229347,33°00'S,71°31'W
+China,,Beijing,15360,283860,432010,,
+China,,Shanghai,11505,130545,241177,,
+ Colombia,N/A,Santiago de Cali,14712,238988,514147,3°25'N,76°31'W
+ Colombia,N/A,Medellín,3765,76786,248527,6°14'N,75°35'W
+ Colombia,N/A,Cartagena,17880,279662,666744,10°24'N,75°30'W
+ Colombia,N/A,Barranquilla,26571,149505,382077,10°58'N,74°48'W
+ Colombia,N/A,Cúcuta,11823,279589,912553,7°54'N,72°30'W
+ Colombia,N/A,Bogotá,11434,303980,23745,4°36'N,74°05'W
+ Comoros,N/A,Moroni,21990,628574,128231,11°45'S,43°12'E
+ Costa Rica,N/A,Limón,22890,522918,2164965,9°59'N,83°02'W
+ Costa Rica,N/A,Liberia,3354,44037,36260,10°38'N,85°26'W
+ Costa Rica,N/A,Alajuela,8880,27756,460049,10°01'N,84°13'W
+ Costa Rica,N/A,Puntarenas,23880,697377,1304421,9°58'N,84°50'W
+ Costa Rica,N/A,San José,2154,3310,51079,9°56'N,84°05'W
+ Croatia,N/A,Split,6955,30349,122031,43°30'N,16°26'E
+ Croatia,N/A,Zagreb,14659,108696,770895,45°49'N,15°59'E
+ Cuba,N/A,Havana,26720,669193,1235056,23°08'N,82°23'W
+ Cuba,N/A,Santiago de Cuba,21889,341326,1464757,20°01'N,75°49'W
+ Cyprus,N/A,Nicosia,8425,51926,120666,35°10'N,33°22'E
+ Czech Republic,N/A,Prague,26768,126125,2578262,50°05'N,14°25'E
+ Democratic Republic of the Congo,N/A,Kinshasa,20328,395085,1653135,4°20'S,15°19'E
+ Democratic Republic of the Congo,Équateur,Mbandaka,3578,47301,40416,0°03'N,18°15'E
+ Democratic Republic of the Congo,N/A,Lubumbashi,14012,412809,820713,11°40'S,27°28'E
+ Denmark,N/A,Esbjerg,24283,50959,2326449,55°29'N,8°27'E
+ Denmark,N/A,Odense,6829,54314,468735,55°24'N,10°23'E
+ Denmark, Greenland,Upernavik,26253,650986,2357890,72°47'N,56°09'W
+ Denmark,N/A,Copenhagen,4877,104509,363454,55°41'N,12°34'E
+ Denmark, Greenland,Nord,463,8368,6727,81°36'N,16°40'W
+ Denmark, Greenland,Qaqortoq,28033,819957,1911988,60°43'N,46°02'W
+ Denmark, Greenland,Qaanaaq,28870,332942,878347,77°28'N,69°14'W
+ Denmark, Greenland,Nuuk (Godthåb),488,12145,2369,64°11'N,51°44'W
+ Denmark,Aarhus,Aarhus,9665,150748,338033,56°09'N,10°13'E
+ Denmark, Faroe Islands,Tórshavn,6583,35541,254872,62°01'N,6°46'W
+ Djibouti,N/A,Djibouti,17195,445862,752840,11°35'N,43°09'E
+ Dominica,N/A,Roseau,4686,100809,162437,15°18'N,61°23'W
+ Dominican Republic,N/A,Santo Domingo,26269,641515,67063,18°28'N,69°57'W
+ Ecuador,Pichincha,Quito,29413,876267,510064,0°15'S,78°35'W
+ Ecuador,N/A,Guayaquil,24374,386578,966928,2°11'S,79°53'W
+ Egypt,N/A,Alexandria,1571,40668,144533,31°12'N,29°55'E
+ Egypt,N/A,Suez,5416,32941,19990,29°58'N,32°33'E
+ Egypt,N/A,Luxor,28347,161398,1333878,25°41'N,32°39'E
+ Egypt,N/A,Cairo,29762,640484,2690897,30°03'N,31°14'E
+ Egypt,N/A,Port Said,29504,700588,885987,31°15'N,32°17'E
+ El Salvador,N/A,San Salvador,4857,138158,438325,13°41'N,89°11'W
+ Equatorial Guinea,N/A,Malabo,28420,48794,948247,3°45'N,8°47'E
+ Eritrea,N/A,Asmara,8137,158971,415402,15°20'N,38°56'E
+ Estonia,Valga County,Valga,6640,49063,484862,57°46'N,26°02'E
+ Estonia,Harju County,Tallinn,22969,236132,1228485,59°26'N,24°45'E
+ Estonia,Tartu County,Tartu,11585,125467,34118,58°23'N,26°43'E
+ Ethiopia,N/A,Addis Ababa,21839,196343,294324,9°02'N,38°44'E
+ Federated States of Micronesia,N/A,Palikir,15924,168255,25955,6°55'N,158°10'E
+ Federated States of Micronesia,N/A,Weno,9675,123721,218659,7°27'N,151°51'E
+ Fiji,N/A,Labasa,26340,370951,1977025,16°26'S,179°22'E
+ Fiji,N/A,Suva,10308,259800,846234,18°08'S,178°27'E
+ Fiji,N/A,Rabi Island,12099,158915,765020,16°30'S,180°00'W
+ Finland,Uusimaa,Espoo,17644,175201,1585148,60°12'N,24°39'E
+ Finland,Lapland,Tornio,1694,4955,147734,65°51'N,24°09'E
+ Finland,Southwest Finland,Turku,21608,619512,1350414,60°27'N,22°16'E
+ Finland,Päijät-Häme,Lahti,21941,30219,497876,60°59'N,25°39'E
+ Finland,Lapland,Rovaniemi,22656,52358,1467505,66°30'N,25°44'E
+ Finland,Northern Ostrobothnia,Oulu,17910,266806,1717268,65°01'N,25°28'E
+ Finland,Pirkanmaa,Tampere,27890,355311,1628986,61°30'N,23°46'E
+ Finland,Northern Ostrobothnia,Pudasjärvi,5973,16798,283815,65°22'N,27°00'E
+ Finland,Pohjois-Savo,Kuopio,23792,571447,103625,62°54'N,27°41'E
+ Finland,Lapland,Kemijärvi,26075,398730,1487183,66°43'N,27°26'E
+ Finland,Central Finland,Jyväskylä,2166,24546,127403,62°15'N,25°45'E
+ Finland,Lapland,Nuorgam,13785,252650,8992,70°05'N,27°53'E
+ Finland,Uusimaa,Helsinki,28389,100198,1162413,60°10'N,24°56'E
+ Finland,Lapland,Kemi,16373,154971,1435508,65°44'N,24°34'E
+ Finland,Northern Ostrobothnia,Kuusamo,1642,15780,26093,65°58'N,29°11'E
+ Finland,Uusimaa,Vantaa,8446,109244,187588,60°18'N,25°02'E
+ Finland,Ostrobothnia,Vaasa,18888,430664,950908,63°06'N,21°37'E
+ Finland,Lapland,Utsjoki,21240,566883,1356256,69°54'N,27°01'E
+ France,Réunion,Saint-Denis,4835,118038,35395,20°53'S,55°27'E
+ France,Guadeloupe,Basse-Terre,5575,42860,259542,16°00'N,61°44'W
+ France,French Guiana,Cayenne,7721,151668,454621,4°55'N,52°20'W
+ France, New Caledonia,Nouméa,6813,69975,636581,22°17'S,166°27'E
+ France,Wallis and Futuna,Mata-Utu,8123,100483,378767,13°17'S,176°11'W
+ France,Martinique,Fort-de-France,23807,50511,150130,14°36'N,61°05'W
+ France, Auvergne-Rhône-Alpes,Lyon,23247,295301,1044657,45°46'N,4°51'E
+ France,N/A,Calais,29020,125199,1854945,50°57'N,1°51'E
+ France,Mayotte,Mamoudzou,28544,506208,1110802,12°47'S,45°14'E
+ France,Occitanie,Toulouse,16006,388934,1129836,43°36'N,1°27'E
+ France, French Polynesia,Papeete,371,674,3404,17°32'S,149°34'W
+ France, Normandy,Rouen,20529,121524,1869007,49°26'N,1°06'E
+ France, Provence-Alpes-Côte d'Azur,Marseille,28599,646447,1452252,43°18'N,5°22'E
+ France, Grand Est,Strasbourg,12719,325830,1152768,48°35'N,7°45'E
+ France, Provence-Alpes-Côte d'Azur,Nice,11258,111421,188166,43°42'N,7°16'E
+ France, Brittany,Brest,23685,105897,1536119,48°23'N,4°29'W
+ France,Nouvelle-Aquitaine,Bordeaux,10566,126930,1022507,44°50'N,0°35'W
+ France, Normandy,Le Havre,23573,415150,1761750,49°29'N,0°06'E
+ France, Provence-Alpes-Côte d'Azur,Cannes,12494,42382,107744,43°33'N,7°01'E
+ France,Saint Pierre and Miquelon,Saint-Pierre,14465,175836,486755,46°47'N,56°11'W
+ France, Île-de-France,Paris,11694,252309,702699,48°51'N,2°21'E
+ France, Pays de la Loire,Nantes,18464,484662,138612,47°13'N,1°33'W
+ France,N/A,Orléans,10797,26672,979942,47°54'N,1°55'E
+ France, Hauts-de-France,Lille,27954,134135,266163,50°38'N,3°03'E
+ Gabon,N/A,Libreville,1631,38688,33578,0°23'N,9°27'E
+ Gambia,N/A,Serekunda,1122,14950,14584,13°26'N,16°40'W
+ Gambia,N/A,Banjul,27266,725395,2248170,13°27'N,16°35'W
+ Gambia,N/A,Brikama,6211,106859,377364,13°16'N,16°39'W
+ Georgia,N/A,Tbilisi,21537,645567,1969055,41°43'N,44°47'E
+ Georgia  Abkhazia (disputed), Abkhazia,Sukhumi,5346,135762,343173,43°00'N,41°01'E
+ Georgia  South Ossetia (disputed), South Ossetia,Tskhinvali,27334,731053,1575826,42°14'N,43°58'E
+ Germany, Hesse,Frankfurt am Main,11597,306825,424044,50°07'N,8°41'E
+ Germany, North Rhine-Westphalia,Cologne,7672,198040,36453,50°56'N,6°58'E
+ Germany, Thuringia,Erfurt,6198,147295,118218,50°59'N,11°02'E
+ Germany, Bavaria,Nuremberg,16648,92239,1497315,49°27'N,11°05'E
+ Germany, North Rhine-Westphalia,Düsseldorf,19980,405114,667368,51°14'N,6°47'E
+ Germany, Bremen,Bremen,15253,217548,835645,53°05'N,8°48'E
+ Germany, Baden-Württemberg,Stuttgart,25990,291953,1572353,48°47'N,9°11'E
+ Germany, Hamburg,Hamburg,22798,316746,394972,53°34'N,10°00'E
+ Germany, Bavaria,Munich,2555,73971,195312,48°08'N,11°34'E
+ Germany, Schleswig-Holstein,Kiel,16929,170001,1403301,54°20'N,10°08'E
+ Germany, Schleswig-Holstein,Flensburg,9870,66084,961486,54°47'N,9°26'E
+ Germany, Mecklenburg-Vorpommern,Rostock,2978,85186,192382,54°05'N,12°08'E
+ Germany, Saxony,Dresden,3820,55732,311320,51°02'N,13°44'E
+ Germany, Berlin,Berlin,9830,78642,623289,52°31'N,13°23'E
+ Germany, Saxony,Leipzig,19587,198189,1771459,51°20'N,12°23'E
+ Germany, North Rhine-Westphalia,Münster,21000,130244,1232886,51°57'N,7°37'E
+ Germany, Lower Saxony,Hannover,47,89,249,52°22'N,9°43'E
+ Germany, North Rhine-Westphalia,Dortmund,3264,38665,156898,51°31'N,7°28'E
+ Ghana,N/A,Sekondi-Takoradi,12463,162259,798204,4°55'N,1°46'W
+ Ghana,N/A,Tamale,136,2590,11973,9°24'N,0°51'W
+ Ghana,Greater Accra,Accra,23572,487738,711642,5°33'N,0°12'W
+ Ghana,N/A,Kumasi,29516,318836,767632,6°40'N,1°37'W
+ Greece,N/A,Athena,6809,156598,377832,37°58'N,23°43'E
+ Greece,N/A,Heraklion,29690,508699,758678,35°20'N,25°08'E
+ Greece,N/A,Thessaloniki,14761,307811,140999,40°39'N,22°54'E
+ Greece,N/A,Halkida,22142,262666,2032355,38°28'N,23°36'E
+ Grenada,N/A,St. George's,28248,293802,2568800,12°03'N,61°45'W
+ Guatemala,N/A,Quetzaltenango,5559,151202,495016,14°50'N,91°31'W
+ Guatemala,N/A,Guatemala City,4294,51192,335447,14°37'N,90°32'W
+ Guinea,N/A,Conakry,17266,452950,1113304,9°31'N,13°43'W
+ Guinea,N/A,Nzérékoré,19810,584842,148594,7°45'N,8°49'W
+ Guinea-Bissau,N/A,Bissau,27310,470068,1195259,11°51'N,15°34'W
+ Guyana,N/A,Georgetown,303,514,195,6°48'N,58°10'W
+ Haiti,N/A,Port-au-Prince,29674,419052,2306726,18°32'N,72°20'W
+ Honduras,N/A,Tegucigalpa,20243,383468,1040103,14°06'N,87°13'W
+ Hungary,N/A,Budapest,2170,39067,117907,47°28'N,19°03'E
+ Iceland,Westfjords,Ísafjörður,15760,132529,832058,66°05'N,23°08'W
+ Iceland,Northeastern Region,Akureyri,20068,284788,434889,65°41'N,18°06'W
+ Iceland,Capital Region,Reykjavík,9714,147080,72137,64°08'N,21°56'W
+ India,Chhattisgarh,Raipur,20149,179078,1128206,21°15'N,81°38'E
+ India,Gujarat,Surat,27429,305573,761491,21°10'N,72°50'E
+ India,Himachal Pradesh,Shimla,6234,43705,390514,31°06'N,77°10'E
+ India,Assam,Tezpur,22513,260030,1342145,26°38'N,92°48'E
+ India,Meghalaya,Shillong,11605,187629,385335,25°34'N,91°53'E
+ India,Punjab,Amritsar,22689,291411,548010,31°38'N,74°52'E
+ India,Jammu and Kashmir,Srinagar,6388,173868,195191,34°05'N,74°47'E
+ India,Gujarat,Ahmedabad,18409,189138,40891,23°02'N,72°35'E
+ India,Maharashtra,Nagpur,21856,642616,515032,21°08'N,79°05'E
+ India,Assam,Dibrugarh,15867,128166,693007,27°29'N,95°00'E
+ India,Punjab,Ludhiana,7800,95761,524336,30°55'N,75°51'E
+ India,Himachal Pradesh,Dalhousie,8513,183770,519184,32°34'N,75°58'E
+ India,Andaman and Nicobar Islands,Port Blair,20273,79819,1431975,11°40'N,92°46'E
+ India,N/A,Chandigarh,20451,149874,368116,30°45'N,76°47'E
+ India,Kerala,Trivandrum,3611,60387,36383,8°29'N,76°57'E
+ India,Karnataka,Bangalore,23055,332040,735474,12°58'N,77°34'E
+ India,Andhra Pradesh,Visakhapatnam,27144,494711,1651090,17°41'N,83°13'E
+ India,Assam,Guwahati,20787,305952,97838,26°12'N,91°44'E
+ India,Kerala,Kochi,3711,2541,156647,9°58'N,76°17'E
+ India,Uttar Pradesh,Lucknow,12573,305850,265542,26°51'N,80°57'E
+ India,Bihar,Patna,21956,169804,1568944,25°37'N,85°09'E
+ India,Maharashtra,Pune,9077,208276,88111,18°31'N,73°51'E
+ India,Uttar Pradesh,Kulpahar,3053,90195,135725,25°19'N,79°38'E
+ India,Uttar Pradesh,Agra,28571,759885,2759590,27°11'N,78°01'E
+ India,West Bengal,Kolkata (Calcutta),18720,196013,700264,22°34'N,88°22'E
+ India,Sikkim,Gangtok,27502,666744,938919,27°20'N,88°37'E
+ India,Tripura,Agartala,5207,10000,353255,23°50'N,91°16'E
+ India,Uttar Pradesh,Kanpur,24879,33429,2344558,26°28'N,80°20'E
+ India,Rajasthan,Jaipur,11662,85728,303377,26°56'N,75°49'E
+ India,Tamil Nadu,Chennai (Madras),27118,562449,2457771,13°05'N,80°16'E
+ India,Maharashtra,Mumbai,7643,157944,595406,18°59'N,72°50'E
+ India,Delhi,New Delhi,445,8912,13501,28°37'N,77°13'E
+ India,West Bengal,Siliguri,18537,521682,1530880,26°43'N,88°26'E
+ India,Telangana,Hyderabad,19610,537784,131832,17°22'N,78°29'E
+ Indonesia,Special Region of Yogyakarta,Yogyakarta,22957,399093,339136,7°48'S,110°22'E
+ Indonesia,West Sumatera,Padang,24728,400531,1630692,0°57'S,100°21'E
+ Indonesia,South Sulawesi,Makassar,22574,657408,2128394,5°08'S,119°25'E
+ Indonesia,West Java,Bandung,18972,526950,1297435,6°55'S,107°37'E
+ Indonesia,East Java,Malang,24991,724330,811440,7°59'S,112°37'E
+ Indonesia,West Kalimantan,Pontianak,2542,2074,85637,0°01'S,109°20'E
+ Indonesia,South Sumatera,Palembang,24634,92752,1065447,2°59'S,104°45'E
+ Indonesia,Riau,Pekanbaru,6949,38048,209308,0°32'N,101°27'E
+ Indonesia,Maluku,Ambon,1882,55781,163389,3°42'S,128°10'E
+ Indonesia,Central Java,Semarang,25653,520517,2243153,6°58'S,110°25'E
+ Indonesia,Jakarta,Jakarta,16653,479295,1303131,6°12'S,106°48'E
+ Indonesia,East Java,Surabaya,22641,183322,1870090,7°16'S,112°45'E
+ Indonesia,Papua,Jayapura,6386,18649,444826,2°32'S,140°43'E
+ Indonesia,West Java,Bogor,13721,275233,782391,6°36'S,106°48'E
+ Indonesia,Aceh,Banda Aceh,26748,592193,716926,5°33'N,95°19'E
+ Indonesia,Bali,Denpasar,15028,167472,425537,8°39'S,115°13'E
+ Indonesia,East Kalimantan,Balikpapan,20549,119947,211838,1°16'S,116°50'E
+ Indonesia,North Sumatera,Medan,13649,392697,1089207,3°35'N,98°40'E
+ Iran,N/A,Isfahan,11106,327999,751456,32°38'N,51°39'E
+ Iran,Tehran,Tehran,17038,395719,1281638,35°42'N,51°25'E
+ Iran,N/A,Mashhad,20307,357624,744994,36°18'N,59°36'E
+ Iran,Markazi,Arak,21997,446719,809871,34°05'N,49°41'E
+ Iran,N/A,Tabriz,28997,42363,615258,38°04'N,46°18'E
+ Iraq,N/A,Baghdad,24217,209789,613085,33°20'N,44°26'E
+ Iraq,N/A,Mosul,4877,68023,267619,36°20'N,43°08'E
+ Iraq,N/A,Karbala,19445,540013,1348571,32°37'N,41°02'E
+ Iraq, Iraqi Kurdistan,Arbil,18094,234478,897276,36°11'N,44°01'E
+ Iraq,N/A,Kirkuk,16934,245401,994345,35°28'N,44°19'E
+ Iraq,N/A,Najaf,29223,668364,2710320,32°00'N,44°22'E
+ Iraq,N/A,Basra,5135,44613,400528,30°30'N,47°49'E
+ Ireland, Leinster,Dublin,29551,54059,355037,53°21'N,6°16'W
+ Ireland, Munster,Cork,29430,691903,678202,51°54'N,8°28'W
+ Israel,N/A,Tel Aviv,22102,90264,1869781,32°04'N,34°47'E
+ Israel,N/A,Eilat,22243,277058,2173146,29°33'N,34°57'E
+ Israel  Palestine (disputed),N/A,Jerusalem,169,1256,13400,31°47'N,35°13'E
+ Italy, Emilia-Romagna,Ravenna,18796,244117,192669,44°25'N,12°12'E
+ Italy, Sicily,Catania,5787,166784,95075,37°30'N,15°05'E
+ Italy, Tuscany,Florence,1472,7219,110278,43°47'N,11°15'E
+ Italy, Apulia,Bari,24179,167904,1369975,41°07'N,16°52'E
+ Italy, Sicily,Palermo,22433,167203,1307272,38°07'N,13°22'E
+ Italy, Tuscany,Follonica,3045,14025,250224,42°56'N,10°46'E
+ Italy, Lombardy,Milan,23492,142637,1456425,45°28'N,9°11'E
+ Italy, Sicily,Trapani,1586,26834,68290,38°01'N,12°30'E
+ Italy, Liguria,Genoa,4520,106040,427778,44°24'N,8°55'E
+ Italy, Sardinia,Cagliari,28215,613024,2085395,39°15'N,9°03'E
+ Italy, Campania,Naples,22781,115513,317169,40°51'N,14°16'E
+ Italy, Piedmont,Turin,25916,73948,806851,45°04'N,7°42'E
+ Italy, Veneto,Venice,18136,156288,1512114,45°26'N,12°20'E
+ Italy, Lazio,Rome,25740,654975,2002011,41°54'N,12°30'E
+ Italy, Emilia-Romagna,Bologna,20910,110371,1827856,44°30'N,11°21'E
+ Italy, Sicily,Messina,27925,192312,2319656,38°11'N,15°33'E
+ Italy, Abruzzo,Avezzano,6840,92397,270960,42°02'N,13°25'E
+ Ivory Coast,N/A,Abidjan,11690,132017,749481,5°19'N,4°02'W
+ Ivory Coast,N/A,Yamoussoukro,26758,313198,1933822,6°49'N,5°17'W
+ Jamaica,N/A,Kingston,24852,224173,2429532,17°59'N,76°48'W
+ Japan,Mie,Tsu,622,3250,23352,34°43'N,136°30'E
+ Japan,Shizuoka,Shizuoka,8029,170359,539277,34°59'N,138°23'E
+ Japan,Nara,Nara,6594,57778,331972,34°41'N,135°48'E
+ Japan,Yamaguchi,Yamaguchi,8694,69531,536289,34°11'N,131°28'E
+ Japan,Ishikawa,Kanazawa,23743,487647,2254884,36°34'N,136°39'E
+ Japan,Kumamoto,Kumamoto,27892,437703,957674,32°47'N,130°44'E
+ Japan,Niigata,Niigata,27227,359049,2105367,37°55'N,139°02'E
+ Japan,Hokkaido,Hakodate,2211,54652,156504,41°46'N,140°44'E
+ Japan,Chiba,Chiba,6841,74404,26647,35°36'N,140°06'E
+ Japan,Hyogo,Kobe,16863,97808,1348753,34°41'N,135°12'E
+ Japan,Fukushima,Fukushima,14143,275865,290707,37°46'N,140°28'E
+ Japan,Saga,Saga,19017,95295,786071,33°16'N,130°18'E
+ Japan,Miyazaki,Miyazaki,28482,530393,1437971,31°55'N,131°25'E
+ Japan,Osaka,Osaka,2312,16707,155829,34°42'N,135°30'E
+ Japan,Nagasaki,Nagasaki,14300,265032,1146027,32°47'N,129°52'E
+ Japan,Gifu,Gifu,23912,239909,200989,35°25'N,136°46'E
+ Japan,Miyagi,Sendai,9406,26218,375762,38°16'N,140°52'E
+ Japan,Oita,Oita,29838,82535,248332,33°14'N,131°36'E
+ Japan,Saitama,Saitama,15923,59239,16149,35°51'N,139°38'E
+ Japan,Hokkaido,Obihiro,12091,82302,348891,42°55'N,143°12'E
+ Japan,Kyoto,Kyoto,25866,169760,670331,35°01'N,135°46'E
+ Japan,Aomori,Aomori,22081,435025,1643342,40°49'N,140°45'E
+ Japan,Tottori,Tottori,24729,570609,1434125,35°30'N,134°14'E
+ Japan,Gunma,Maebashi,29949,269484,2618756,36°23'N,139°04'E
+ Japan,Okayama,Okayama,8866,122679,876569,34°39'N,133°55'E
+ Japan,Toyama,Toyama,7499,184992,258773,36°42'N,137°13'E
+ Japan,Hiroshima,Hiroshima,20217,591154,837187,34°23'N,132°27'E
+ Japan,Tokushima,Tokushima,3086,67294,14402,34°04'N,134°33'E
+ Japan,Kagawa,Takamatsu,12149,325467,695825,34°21'N,134°03'E
+ Japan,Kanagawa,Yokohama,20426,338738,415446,35°27'N,139°38'E
+ Japan,Hokkaido,Nemuro,5147,124832,58196,43°20'N,145°35'E
+ Japan,Okinawa,Naha,27927,82781,1607565,26°13'N,127°41'E
+ Japan,Iwate,Morioka,20902,255215,117664,39°41'N,141°09'E
+ Japan,Shiga,Otsu,28886,224596,2553130,35°01'N,135°51'E
+ Japan,Tochigi,Utsunomiya,4920,65188,181597,36°33'N,139°53'E
+ Japan,Aichi,Nagoya,6465,174107,235096,35°11'N,136°54'E
+ Japan,Fukui,Fukui,20572,85253,904278,36°04'N,136°13'E
+ Japan,Hokkaido,Asahikawa,19379,10616,1435866,43°46'N,142°22'E
+ Japan,Hokkaido,Sapporo,27383,119510,967248,43°04'N,141°21'E
+ Japan,N/A,Tokyo,16735,62514,1082335,35°41'N,139°42'E
+ Japan,Hokkaido,Wakkanai,6006,152946,409880,45°25'N,141°40'E
+ Japan,Nagano,Nagano,7842,212353,739530,36°38'N,138°11'E
+ Japan,Ehime,Matsuyama,24073,716513,678875,33°50'N,132°46'E
+ Japan,Yamanashi,Kofu,23394,124818,1885503,35°40'N,138°34'E
+ Japan,Ibaraki,Mito,23667,23092,1034939,36°22'N,140°28'E
+ Japan,Wakayama,Wakayama,19862,149510,1958181,34°14'N,135°10'E
+ Japan,Fukuoka,Fukuoka,23378,336881,1317162,33°35'N,130°24'E
+ Japan,Akita,Akita,5315,119182,465706,39°43'N,140°07'E
+ Japan,Kagoshima,Kagoshima,21060,73322,374391,31°36'N,130°33'E
+ Japan,Shimane,Matsue,17314,480133,45157,35°28'N,133°03'E
+ Japan,Hokkaido,Kushiro,23056,368686,1410643,42°59'N,144°23'E
+ Japan,Yamagata,Yamagata,20052,478176,742665,38°15'N,140°20'E
+ Japan,Kanagawa,Kawasaki,21820,239713,728713,35°31'N,139°42'E
+ Japan,Kochi,Kochi,15084,236107,1317121,33°34'N,133°32'E
+ Jordan,N/A,Amman,25674,43341,2500593,31°56'N,35°56'E
+ Kazakhstan,N/A,Almaty,23207,454597,48133,43°17'N,76°54'E
+ Kazakhstan,Atyrau Region,Atyrau,20790,136134,803003,47°07'N,51°53'E
+ Kazakhstan,North Kazakhstan,Petropavl,419,7688,34556,54°53'N,69°10'E
+ Kazakhstan,N/A,Astana,2141,22557,172749,51°10'N,71°26'E
+ Kenya,N/A,Mombasa,26024,116735,1549555,4°03'S,39°40'E
+ Kenya,N/A,Nairobi,22792,368901,1115499,1°17'S,36°49'E
+ Kiribati,N/A,South Tarawa,9506,162959,719426,1°26'N,173°00'E
+ Kuwait,N/A,Kuwait City,21355,402941,1403256,29°22'N,47°59'E
+ Kyrgyzstan,N/A,Bishkek,8733,90640,485993,42°52'N,74°37'E
+ Laos,N/A,Vientiane,621,18200,41187,17°58'N,102°36'E
+ Latvia,N/A,Riga,11268,20567,195551,56°57'N,24°06'E
+ Lebanon,N/A,Beirut,8574,18790,689965,33°53'N,35°31'E
+ Lesotho,N/A,Maseru,4401,99657,24272,29°19'S,27°29'E
+ Liberia,N/A,Monrovia,4072,33601,35610,6°19'N,10°48'W
+ Libya,N/A,Tripoli,11761,18148,823347,32°54'N,13°11'E
+ Libya,N/A,Sabha,26720,329951,2504348,27°02'N,14°26'E
+ Libya,N/A,Benghazi,25838,418840,669563,32°07'N,20°04'E
+ Liechtenstein,N/A,Vaduz,727,5774,65045,47°08'N,9°31'E
+ Lithuania,N/A,Vilnius,4157,42992,142656,54°41'N,25°17'E
+ Luxembourg,N/A,Luxembourg,16963,96738,550010,49°37'N,6°07'E
+ Macedonia,N/A,Skopje,23047,39993,1536077,42°00'N,21°26'E
+ Madagascar,N/A,Antananarivo,10273,198488,675657,18°56'S,47°31'E
+ Malawi,N/A,Lilongwe,26460,221427,1819985,13°59'S,33°47'E
+ Malawi,Southern Region,Blantyre,18602,503083,78717,15°47'S,35°00'E
+ Malaysia, Penang,George Town,14002,254334,33371,5°25'N,100°19'E
+ Malaysia, Kedah,Alor Setar,4359,58881,341910,6°07'N,100°22'E
+ Malaysia, Kelantan,Kota Bharu,22321,241714,869483,6°08'N,102°15'E
+ Malaysia, Sarawak,Miri,6367,35333,89953,4°24'N,114°00'E
+ Malaysia, Sabah,Kota Kinabalu,23425,493379,1467410,5°58'N,116°06'E
+ Malaysia, Sarawak,Kuching,11101,207460,396948,1°34'N,110°21'E
+ Malaysia,Federal Territory (Malaysia) Federal Territory,Kuala Lumpur,4840,72759,137115,3°09'N,101°42'E
+ Malaysia, Malacca,Malacca Town,3824,28168,47766,2°12'N,102°15'E
+ Malaysia, Perak,Ipoh,17103,500828,1092382,4°36'N,101°04'E
+ Malaysia, Johor,Johor Bahru,17913,282830,909334,1°29'N,103°44'E
+ Maldives,N/A,Malé,28873,545149,2706093,4°11'N,73°31'E
+ Mali,N/A,Koulikoro,2261,43572,80873,12°52'N,7°34'W
+ Mali,N/A,Timbuktu,4813,74453,140243,16°47'N,3°01'W
+ Mali,N/A,Bamako,25973,655168,519242,12°39'N,8°00'W
+ Malta,N/A,Valletta,25277,335333,856951,35°54'N,14°31'E
+ Malta,N/A,Birkirkara,20393,334077,243781,35°54'N,14°28'E
+ Marshall Islands,N/A,Majuro,260,6473,21909,7°04'N,171°16'E
+ Mauritania,N/A,Nouakchott,11938,72240,12839,18°06'N,15°57'W
+ Mauritius,N/A,Port Louis,18003,411886,675711,20°10'S,57°30'E
+ Mexico, Chihuahua,Chihuahua,20641,298099,1141210,28°38'N,106°05'W
+ Mexico, Guanajuato,León,16787,344407,257502,21°07'N,101°41'W
+ Mexico, Baja California,Ensenada,12891,17544,928251,31°51'N,116°36'W
+ Mexico, Yucatán,Mérida,2089,18710,150166,20°58'N,89°37'W
+ Mexico, Tamaulipas,Tampico,29292,592022,2225049,22°15'N,97°52'W
+ Mexico, Durango,Durango,20007,300622,517013,24°01'N,104°40'W
+ Mexico, Chiapas,Tapachula,3150,52045,46749,14°54'N,92°16'W
+ Mexico, Jalisco,Guadalajara,9776,271909,940421,20°40'N,103°21'W
+ Mexico, Baja California Sur,Cabo San Lucas,27886,674565,951652,22°53'N,109°55'W
+ Mexico, Jalisco,Puerto Vallarta,15654,141630,1241606,20°40'N,105°16'W
+ Mexico, Quintana Roo,Cancún,24758,431725,886938,21°10'N,86°51'W
+ Mexico, Puebla,Puebla,3621,100561,149309,19°03'N,98°13'W
+ Mexico, Baja California,Tijuana,20379,77092,11395,32°32'N,117°02'W
+ Mexico, Coahuila,Torreón,23409,614629,420402,25°32'N,103°27'W
+ Mexico, Guerrero,Acapulco,16445,290048,932375,16°52'N,99°53'W
+ Mexico, Aguascalientes,Aguascalientes,9168,75489,439973,21°53'N,102°18'W
+ Mexico, Chihuahua,Ciudad Juárez,875,11075,76474,31°44'N,106°29'W
+ Mexico, Nuevo León,Monterrey,27947,328118,1176657,25°40'N,100°18'W
+ Mexico, Sinaloa,Culiacán,14455,39621,1112745,24°48'N,107°23'W
+ Mexico, Jalisco,Zapopan,9479,101423,663174,20°43'N,103°24'W
+ Mexico, Sonora,Hermosillo,24295,329400,1731335,29°06'N,110°57'W
+ Mexico, Baja California,Mexicali,16061,126588,816473,32°40'N,115°28'W
+ Mexico, San Luis Potosí,San Luis Potosí,24617,318661,1459356,22°09'N,100°51'W
+ Mexico, Querétaro,Querétaro,2823,70171,184591,20°35'N,100°24'W
+ Mexico, Veracruz,Veracruz,23032,494657,1237047,19°11'N,96°09'W
+ Mexico,N/A,Mexico City Mexico City,19023,427627,1588668,19°26'N,99°08'W
+ Moldova, Transnistria,Tiraspol,18539,537138,1195458,46°51'N,29°38'E
+ Moldova,N/A,Chisinau,9915,160812,223248,47°00'N,28°55'E
+ Monaco,N/A,Monaco,7618,18675,193818,43°44'N,7°25'E
+ Mongolia,N/A,Ulaanbaatar,14328,337008,842924,47°55'N,106°55'E
+ Montenegro,N/A,Podgorica,8351,57382,335254,42°26'N,19°16'E
+ Morocco,N/A,Marrakech,21754,151282,989071,31°38'N,8°01'W
+ Morocco,Agadir Prefecture,Agadir,2119,27994,206272,30°26'N,9°36'W
+ Morocco,N/A,Rabat,2563,73258,229892,34°02'N,6°50'W
+ Morocco,N/A,Casablanca,19448,331662,695037,33°32'N,7°35'W
+ Morocco,Tangier-Assilah,Tangier,5351,7762,113070,35°46'N,5°48'W
+ Morocco  Western Sahara (disputed), Western Sahara,El Aaiún,15164,361091,1094454,27°09'N,13°12'W
+ Mozambique,N/A,Maputo,17944,330294,1414130,25°58'S,32°35'E
+ Myanmar,N/A,Yangon,15199,276693,905931,16°48'N,96°09'E
+ Myanmar,N/A,Naypyidaw,23631,445029,323921,19°45'N,96°06'E
+ Namibia,N/A,Windhoek,11937,58474,869322,22°34'S,17°05'E
+ Nauru,N/A,Yaren District,10495,163392,474924,0°33'S,166°55'E
+ Netherlands, South Holland,Leiden,12186,138558,968939,52°10'N,4°29'E
+ Netherlands, Overijssel,Enschede,19195,114782,1177741,52°13'N,6°54'E
+ Netherlands, North Holland,Amsterdam,23702,73498,231054,52°22'N,4°54'E
+ Netherlands, Curaçao,Willemstad,4729,83975,9656,12°07'N,68°56'W
+ Netherlands, South Holland,Rotterdam,1279,30087,71153,51°56'N,4°29'E
+ Netherlands, Limburg (Netherlands),Maastricht,20921,592047,265444,50°51'N,5°41'E
+ Netherlands, North Holland,Haarlem,10312,158461,437050,52°23'N,4°38'E
+ Netherlands, Utrecht,Utrecht,13384,60488,841459,52°06'N,5°07'E
+ Netherlands, South Holland,The Hague,10573,87819,479638,52°05'N,4°19'E
+ Netherlands, Aruba,Oranjestad,978,23526,77468,12°31'N,70°02'W
+ Netherlands, Groningen,Groningen,21114,408836,1511342,53°13'N,6°33'E
+ New Zealand, Cook Islands,Avarua,20381,606078,66463,21°12'S,159°46'W
+ New Zealand, Chatham Islands,Waitangi,14426,52166,1219236,43°57'S,176°33'E
+ New Zealand,Southland,Invercargill,28166,587205,1116832,46°25'S,168°21'E
+ New Zealand,N/A,Hamilton,2647,8031,104765,37°47'S,175°17'E
+ New Zealand,N/A,Nelson,14457,381919,710386,41°16'S,173°17'E
+ New Zealand,N/A,Hastings,10618,25356,377756,39°39'S,176°50'E
+ New Zealand,Otago,Dunedin,8800,223130,402337,45°52'S,170°30'E
+ New Zealand,Canterbury,Christchurch,9321,115094,276088,43°32'S,172°37'E
+ New Zealand,N/A,Auckland,7589,70515,497306,36°50'S,174°44'E
+ New Zealand,Wellington Region,Wellington,18102,323577,1094703,41°17'S,174°47'E
+ New Zealand, Niue,Alofi,10660,283587,43976,19°03'S,169°55'W
+ Nicaragua,N/A,Managua,17146,138604,1308280,12°08'N,86°15'W
+ Nicaragua,N/A,Chinandega,12940,44486,1090771,12°37'N,87°09'W
+ Niger,N/A,Niamey,28872,604668,1763160,13°31'N,2°06'E
+ Nigeria,N/A,Port Harcourt,13548,84567,1026613,4°45'N,7°00'E
+ Nigeria,N/A,Ibadan,18014,92132,1611731,7°24'N,3°55'E
+ Nigeria,N/A,Kano,12307,215278,686333,12°00'N,8°31'E
+ Nigeria,N/A,Benin City,18006,469714,1711886,6°19'N,5°36'E
+ Nigeria,N/A,Lagos,28223,51816,1244617,6°27'N,3°24'E
+ Nigeria,N/A,Enugu,20897,559613,1719642,6°27'N,7°31'E
+ Nigeria,N/A,Abuja,22502,351896,1602727,9°04'N,7°29'E
+ North Korea,North Hwanghae,Kaesong,813,18134,38530,37°58'N,126°33'E
+ North Korea,North Hamgyong,Chongjin,9250,47848,53187,41°48'N,129°47'E
+ North Korea,Kangwon,Wonsan,18913,215622,1355051,39°09'N,127°27'E
+ North Korea,N/A,Pyongyang,6599,18811,134753,39°01'N,125°44'E
+ Norway,Sunnmøre,Ålesund,28959,452568,614817,62°28'N,6°09'E
+ Norway,Sør-Trøndelag,Trondheim,15565,465824,557047,63°26'N,10°24'E
+ Norway,Finnmark,Kirkenes,7910,110937,634825,69°43'N,30°02'E
+ Norway,N/A,Oslo,23542,644439,2168600,59°57'N,10°45'E
+ Norway,Troms,Harstad,542,13399,13059,68°47'N,16°32'E
+ Norway, Svalbard,Longyearbyen,20924,170213,1839681,78°13'N,15°39'E
+ Norway,Oppland,Lillehammer,7345,79408,378424,61°08'N,10°26'E
+ Norway,N/A,Kristiansand,5738,129377,297244,58°10'N,8°00'E
+ Norway,Finnmark,Vadsø,16310,25683,890946,70°05'N,29°44'E
+ Norway,Finnmark,Hammerfest,3246,49480,284008,70°40'N,23°41'E
+ Norway,Nord-Trøndelag,Stjørdal,17335,204274,913954,63°29'N,11°10'E
+ Norway,Finnmark,Honningsvåg,22177,206161,1944254,70°59'N,25°59'E
+ Norway,Nordland,Narvik,24899,484880,2298788,68°25'N,17°34'E
+ Norway,Troms,Tromsø,21596,455140,1742695,69°41'N,18°57'E
+ Norway,N/A,Sarpsborg,22160,165234,1869568,59°17'N,11°12'E
+ Norway,N/A,Arendal,2463,12706,43424,58°29'N,8°47'E
+ Norway,Finnmark,Alta,24631,450795,221650,69°58'N,23°16'E
+ Norway,Hordaland,Bergen,4139,119732,52456,60°23'N,5°20'E
+ Norway, Svalbard,Ny-Ålesund,23043,457255,510493,78°55'N,11°56'E
+ Norway,Nordland,Bodø,23502,464632,259171,67°18'N,14°33'E
+ Oman,N/A,Salalah,8486,137978,38061,17°01'N,54°05'E
+ Oman,N/A,Muscat,28876,784434,2003166,23°37'N,58°36'E
+ Pakistan,Punjab,Rawalpindi,12391,18143,700639,33°36'N,73°02'E
+ Pakistan,Punjab,Lahore,27060,493070,1202184,31°33'N,74°21'E
+ Pakistan,Islamabad Capital Territory,Islamabad,29263,304352,97493,33°43'N,73°04'E
+ Pakistan,Punjab,Multan,11416,12372,822135,30°12'N,71°28'E
+ Pakistan,Khyber Pakhtunkhwa,Peshawar,6575,186420,607627,34°01'N,71°35'E
+ Pakistan,Sindh,Karachi,15584,391535,792897,24°52'N,67°01'E
+ Pakistan,Sindh,Hyderabad,22570,385809,1566191,25°23'N,68°22'E
+ Pakistan,Punjab,Faisalabad,17641,441749,742968,31°25'N,73°05'E
+ Palau,N/A,Koror,574,6453,11343,7°22'N,134°29'E
+ Palau,N/A,Melekeok,10041,148452,664582,7°29'N,134°36'E
+ Palestine,West Bank,Ramallah,8005,86043,662642,31°54'N,35°12'E
+ Palestine,Gaza Strip,Gaza,11996,114285,523148,31°31'N,34°27'E
+ Panama,N/A,Panama City,9322,108508,242564,8°59'N,79°31'W
+ Papua New Guinea,N/A,Port Moresby,25077,619399,2407642,9°31'S,147°13'E
+ Paraguay,N/A,Asunción,29436,563166,750717,25°17'S,57°38'W
+ Paraguay,N/A,Ciudad del Este,9402,190814,924363,25°31'S,54°37'W
+China, Hainan,Haikou,28766,305773,2564765,20°04'N,110°34'E
+China,Xinjiang,Ürümqi,3955,113458,90940,43°50'N,87°36'E
+China,Yunnan,Kunming,12913,76595,803994,25°04'N,102°41'E
+China,Qinghai,Xining,10125,38426,931828,36°38'N,101°46'E
+China,Gansu,Lanzhou,7902,219916,498277,36°02'N,103°48'E
+China,Heilongjiang,Harbin,19075,9968,1632460,45°45'N,126°38'E
+China,N/A,Tianjin,22502,440272,2135069,39°08'N,117°11'E
+China,Guangdong,Shenzhen,22825,34794,1783380,22°33'N,114°06'E
+China,N/A,Shanghai,8534,85545,422162,31°12'N,121°30'E
+China,Guangdong,Guangzhou,8300,97861,523696,23°08'N,113°16'E
+China,Hubei,Wuhan,28435,281493,1827726,30°35'N,114°17'E
+China,N/A,Beijing,6723,85526,525690,39°55'N,116°23'E
+China,Shandong,Jinan,11410,165260,252525,36°40'N,116°59'E
+China,Hebei,Shijiazhuang,1174,3824,94870,38°03'N,114°30'E
+China,Tibet,Shigatse,8868,34291,226995,29°16'N,88°53'E
+China,Sichuan,Chengdu,15437,178222,110728,30°40'N,104°04'E
+China,Liaoning,Shenyang,12401,151185,320114,41°48'N,123°24'E
+China, Hong Kong,Hong Kong,12147,12836,860702,22°17'N,114°10'E
+China,Jiangsu,Nanjing,27515,806231,890501,32°03'N,118°46'E
+China,Shaanxi,Xi'an,14071,8915,1075636,34°16'N,108°54'E
+China,N/A,Chongqing,25927,130283,2265361,29°34'N,106°34'E
+China,Zhejiang,Hangzhou,8986,45371,608925,30°15'N,120°10'E
+China,Guangxi,Nanning,26602,233190,815173,22°49'N,108°19'E
+China,Jilin,Changchun,8428,205895,525870,43°54'N,125°12'E
+China,Shanxi,Taiyuan,1718,49320,136881,37°52'N,112°34'E
+China,Tibet,Lhasa,28340,693616,1243736,29°39'N,91°06'E
+China,Guangdong,Dongguan,4587,126375,277299,23°02'N,113°43'E
+China,Liaoning,Dalian,5186,149522,335564,38°55'N,121°38'E
+China,Hebei,Handan,20149,432102,854313,36°36'N,114°29'E
+China,Henan,Zhengzhou,6674,34046,202279,34°46'N,113°39'E
+China, Macau,Macau,9376,38748,523513,22°10'N,113°33'E
+China,Shandong,Qingdao,20672,189054,1844489,36°04'N,120°23'E
+China,Heilongjiang,Qiqihar,24172,79281,1662017,47°26'N,123°27'E
+ Peru,N/A,Trujillo,28274,133877,1208530,8°07'S,79°02'W
+ Peru,N/A,Cusco,27309,558045,333342,13°32'S,71°58'W
+ Peru,N/A,Ayacucho,231,5322,20117,13°10'S,74°13'W
+ Peru,N/A,Iquitos,7954,153725,225239,3°44'S,73°15'W
+ Peru,N/A,Arequipa,25705,160821,1513377,16°24'S,71°32'W
+ Peru,Lima Province,Lima,14027,65085,1322689,12°03'S,77°02'W
+ Philippines,Cebu,Cebu City,18418,84677,220230,10°17'N,123°54'E
+ Philippines,Northern Samar,Tagbilaran,25768,220601,269101,9°39'N,123°51'E
+ Philippines,National Capital Region,Manila,2640,62762,75735,14°35'N,120°58'E
+ Philippines,Zamboanga del Sur,Zamboanga City,15623,82181,985958,6°54'N,122°04'E
+ Philippines,National Capital Region,Quezon City,18998,388731,854670,14°38'N,121°02'E
+ Philippines,National Capital Region,Makati,4444,93417,313638,14°33'N,121°02'E
+ Philippines,Davao del Norte,Davao City,13119,220374,245900,7°04'N,125°36'E
+ Philippines,Iloilo,Iloilo City,742,7518,24450,10°43'N,122°34'E
+ Poland,Greater Poland,Poznan,18846,415461,1331883,52°24'N,16°55'E
+ Poland,Lesser Poland,Kraków,18841,20903,1099808,50°04'N,19°56'E
+ Poland,Pomeranian Voivodeship,Gdynia,12060,184953,790548,54°30'N,18°33'E
+ Poland,Pomeranian Voivodeship,Gdansk,13224,229575,201412,54°22'N,18°38'E
+ Poland,Masovian Voivodship,Warsaw,27035,153184,2658157,52°14'N,21°01'E
+ Portugal, Azores,Horta,7526,39465,205254,38°35'N,28°43'W
+ Portugal, Madeira,Funchal,29071,696850,224725,32°39'N,16°55'W
+ Portugal, Azores,Angra do Heroísmo,28128,726993,2523878,38°29'N,27°13'W
+ Portugal, Azores,Ponta Delgada,8897,169601,393139,37°49'N,25°45'W
+ Portugal, Azores,Flores Island,15324,247863,88934,39°28'N,31°14'W
+ Portugal,N/A,Lisbon,13505,221606,1046818,38°43'N,9°08'W
+ Portugal,N/A,Porto,3273,63878,42145,41°10'N,8°37'W
+ Portugal,Braga District,Braga,10887,98847,701141,41°33'N,8°25'W
+ Qatar,N/A,Doha,22328,186699,1421528,25°17'N,51°32'E
+ Republic of China (Taiwan),N/A,Kaohsiung,2905,18197,247473,22°38'N,120°16'E
+ Republic of China (Taiwan),N/A,Taipei,1275,3011,6093,25°02'N,121°38'E
+ Republic of China (Taiwan),N/A,Taichung,6554,80627,196097,24°09'N,120°40'E
+ Republic of China (Taiwan),N/A,Tainan,13091,363017,480432,22°59'N,120°11'E
+ Republic of the Congo,N/A,Brazzaville,28476,585361,2473486,4°16'S,15°18'E
+ Romania,Cluj County,Cluj-Napoca,23705,596881,1606575,46°46'N,23°35'E
+ Romania,N/A,Craiova,15334,223820,677390,44°20'N,23°49'E
+ Romania,N/A,Bucharest,3683,34610,303777,44°26'N,26°06'E
+ Romania,Mehedinti County,Drobeta Turnu Severin,22968,307241,2204118,44°38'N,22°39'E
+ Russia,Samara Oblast,Tolyatti,9527,199304,504693,53°31'N,49°25'E
+ Russia,Yaroslavl Oblast,Yaroslavl,24405,683659,2084142,57°37'N,39°51'E
+ Russia,Chelyabinsk Oblast,Chelyabinsk,12794,105533,296967,55°09'N,61°23'E
+ Russia,Volgograd Oblast,Volgograd,2487,59596,76904,48°42'N,44°31'E
+ Russia,N/A,Moscow,16664,358549,1315371,55°45'N,37°37'E
+ Russia,Rostov Oblast,Rostov-on-Don,27073,476348,46449,47°14'N,39°42'E
+ Russia,Republic of Bashkortostan,Ufa,20444,378371,1914312,54°45'N,55°58'E
+ Russia,Krasnoyarsk Krai,Norilsk,22646,229459,1551584,69°20'N,88°13'E
+ Russia,Kamchatka Krai,Petropavlovsk-Kamchatsky,23109,243555,29242,53°01'N,158°39'E
+ Russia,Vologda Oblast,Vologda,4907,53837,36784,59°13'N,39°54'E
+ Russia,Samara Oblast,Samara,9672,187117,469403,53°12'N,50°08'E
+ Russia, Karelia,Petrozavodsk,6727,7256,250225,61°47'N,34°20'W
+ Russia,Krasnodar Krai,Krasnodar,15301,279127,292111,45°02'N,38°58'E
+ Russia,Primorsky Krai,Vladivostok,14243,381855,514872,43°08'N,131°54'E
+ Russia,Irkutsk Oblast,Irkutsk,23453,142146,645245,52°19'N,104°18'E
+ Russia, Sakha Republic,Verkhoyansk,1412,36160,86113,67°33'N,133°23'E
+ Russia,Magadan Oblast,Magadan,21611,391701,2035625,59°34'N,150°48'E
+ Russia,Murmansk Oblast,Murmansk,7117,14526,546034,68°58'N,33°05'E
+ Russia,N/A,Saint Petersburg,1169,20974,23079,59°57'N,30°18'E
+ Russia,Nizhny Novgorod Oblast,Nizhny Novgorod,24536,481180,328717,56°20'N,44°00'E
+ Russia,Udmurt Republic,Izhevsk,4863,3386,247372,56°50'N,53°11'E
+ Russia,Chukotka Autonomous Okrug,Anadyr,21541,574437,309599,64°44'N,177°31'E
+ Russia,Arkhangelsk Oblast,Arkhangelsk,8575,93289,737356,64°32'N,40°32'E
+ Russia,Perm Krai,Perm,19772,410412,910752,58°00'N,56°19'E
+ Russia, Tatarstan,Kazan,5789,35071,311364,55°47'N,49°08'E
+ Russia,Novosibirsk Oblast,Novosibirsk,27546,137933,8459,55°01'N,82°56'E
+ Russia,Sverdlovsk Oblast,Yekaterinburg,20822,244191,1523996,56°50'N,60°35'E
+ Russia,Voronezh Oblast,Voronezh,25304,301006,1363264,51°40'N,39°13'E
+ Russia,Kaliningrad Oblast,Kaliningrad,18445,232481,824333,54°43'N,20°31'E
+ Russia, Sakha Republic,Yakutsk,27159,620929,956364,62°02'N,129°44'E
+ Russia,Saratov Oblast,Saratov,27012,240123,2053786,51°32'N,46°01'E
+ Russia, Krasnoyarsk Krai,Dikson,10243,189073,132695,73°30'N,80°31'E
+ Russia, Sakha Republic,Tiksi,8752,254856,782625,71°39'N,128°52'E
+ Russia, Arkhangelsk Oblast,Belushya Guba,23759,361450,1620023,71°32'N,52°19'E
+ Russia,Krasnoyarsk Krai,Krasnoyarsk,7420,104576,309232,56°01'N,93°04'E
+ Russia,Omsk Oblast,Omsk,16459,383648,756490,54°59'N,73°22'E
+ Russia,Krasnodar Krai,Sochi,21866,139689,173790,43°35'N,39°43'E
+ Russia,Irkutsk Oblast,Bratsk,17467,34614,512591,56°07'N,101°36'E
+ Rwanda,N/A,Kigali,9217,17213,423229,1°57'S,30°04'E
+ Saint Kitts and Nevis,N/A,Basseterre,14667,307958,1195945,17°18'N,62°44'W
+ Saint Lucia,N/A,Castries,14828,230238,907204,14°01'N,60°59'W
+ Saint Vincent and the Grenadines,N/A,Kingstown,6117,86718,59987,13°09'N,61°14'W
+ Samoa,N/A,Apia,4193,97230,307757,13°50'S,171°45'W
+ San Marino,N/A,San Marino,23886,712554,1210181,43°56'N,12°27'E
+ São Tomé and Príncipe,N/A,São Tomé,10154,208977,107215,0°20'N,6°41'E
+ Saudi Arabia,N/A,Riyadh,5803,117964,311704,24°38'N,46°43'E
+ Saudi Arabia,N/A,Medina,4382,42290,297584,24°28'N,39°36'E
+ Saudi Arabia,N/A,Mecca,4715,27409,328253,21°25'N,39°49'E
+ Saudi Arabia,N/A,Jeddah,102,367,6388,21°33'N,39°10'E
+ Saudi Arabia,N/A,Dammam,10442,49320,398088,26°17'N,50°12'E
+ Senegal,N/A,Thiès,6252,95663,585595,14°47'N,16°55'W
+ Senegal,N/A,Dakar,25272,107815,882172,14°42'N,17°27'W
+ Serbia,N/A,Šabac,3935,6221,182524,44°45'N,19°42'E
+ Serbia,N/A,Belgrade,17152,23625,229635,44°49'N,20°28'E
+ Serbia, Vojvodina,Novi Sad,27231,361068,706005,45°15'N,19°51'E
+ Serbia  Kosovo (disputed), Kosovo,Pristina,23470,394316,1104128,42°40'N,21°10'E
+ Seychelles,N/A,Victoria,20896,366671,2050350,4°37'S,55°27'E
+ Sierra Leone,N/A,Freetown,19866,17104,1292092,8°29'N,13°14'W
+ Singapore,N/A,Singapore,10700,198876,991334,1°17'N,103°50'E
+ Slovakia,N/A,Bratislava,22155,181079,1333835,48°09'N,17°07'E
+ Slovenia,N/A,Ljubljana,20811,546560,360500,46°03'N,14°31'E
+ Solomon Islands,N/A,Honiara,25963,744853,2053912,9°28'S,159°49'E
+ Somalia,N/A,Mogadishu,13772,412684,1062312,2°02'N,45°21'E
+ Somalia,N/A,Kismayo,13962,351939,1331370,0°21'S,42°33'E
+ Somalia, Somaliland,Hargeisa,5278,28667,291612,9°34'N,44°04'E
+ South Africa,Mpumalanga,Nelspruit,5930,40512,482202,25°28'S,30°59'E
+ South Africa,Gauteng,Pretoria,18817,20884,1503202,25°45'S,28°11'E
+ South Africa,Northern Cape,Kimberley,15709,14006,967562,28°45'S,24°46'E
+ South Africa,North West,Mafikeng,6635,36604,116433,25°51'S,25°38'E
+ South Africa,Free State,Bloemfontein,25144,433749,1721077,29°07'S,26°13'E
+ South Africa,KwaZulu-Natal,Durban,13212,362653,80960,29°53'S,31°03'E
+ South Africa,Gauteng,Johannesburg,10408,76013,576609,26°12'S,28°03'E
+ South Africa,Limpopo,Polokwane,6439,43383,38777,23°54'S,29°27'E
+ South Africa,Western Cape,Cape Town,27808,54828,1811694,33°56'S,18°25'E
+ South Africa,KwaZulu-Natal,Pietermaritzburg,23443,633643,1793182,29°37'S,30°23'E
+ South Africa,Eastern Cape,Port Elizabeth,673,13568,41667,33°57'S,25°36'E
+ South Africa,Eastern Cape,Bhisho,16233,420135,793616,32°51'S,27°26'E
+ South Korea,N/A,Daegu,319,8984,15193,35°52'N,128°36'E
+ South Korea,N/A,Incheon,28153,346341,2103590,37°29'N,126°38'E
+ South Korea,N/A,Seoul,10526,78869,389367,37°34'N,126°59'E
+ South Korea,N/A,Busan,12119,187762,394199,35°11'N,129°05'E
+ South Sudan,N/A,Juba,22894,249359,1261760,4°51'N,31°36'E
+ Spain, Catalonia,Barcelona,26435,500602,1346835,41°23'N,2°11'E
+ Spain, Andalusia,Sevilla,24515,304399,2203242,37°23'N,5°59'W
+ Spain, Principado de Asturias,Oviedo,13675,59977,1117448,43°21'N,5°50'W
+ Spain, Valencian Community,Valencia,27338,710801,506450,39°28'N,0°23'W
+ Spain, Catalonia,Lleida,4584,36832,86256,41°37'N,0°38'E
+ Spain, Galicia,Vigo,20641,528622,430792,42°14'N,8°43'W
+ Spain, Basque Country,Vitoria-Gasteiz,24492,441910,951851,42°51'N,2°41'W
+ Spain, Basque Country,Bilbao,19775,340383,1526848,43°15'N,2°55'W
+ Spain, Canary Islands,Maspalomas,1511,7148,138762,27°44'N,15°34'W
+ Spain, Balearic Islands,Palma,9891,200377,210564,39°34'N,2°39'E
+ Spain, Basque Country,San Sebastián,18960,354476,1373821,43°19'N,2°00'W
+ Spain, Principado de Asturias,Gijón,11433,332413,954569,43°32'N,5°39'W
+ Spain, Andalusia,Almería,27374,712005,697129,36°50'N,2°28'W
+ Spain, Balearic Islands,Ibiza,352,6441,8197,38°59'N,1°26'E
+ Spain, Madrid,Madrid,3086,83503,84071,40°23'N,3°43'W
+ Spain, Aragon,Zaragoza,8882,165282,598447,41°39'N,0°53'W
+ Spain, Melilla,Melilla,28621,108956,1576263,35°17'N,2°56'W
+ Spain, Galicia,Santiago de Compostela,27759,231623,1656443,42°53'N,8°32'W
+ Spain, Castile and León,Valladolid,6622,137194,142261,41°40'N,4°43'W
+ Spain, Andalusia,Málaga,4838,120790,363942,36°43'N,4°25'W
+ Spain, Canary Islands,Las Palmas de Gran Canaria,17429,23578,707852,28°09'N,15°25'W
+ Spain, Valencian Community,Alicante,25335,262648,1865403,38°20'N,0°28'W
+ Spain, Canary Islands,Santa Cruz de Tenerife,8420,223863,422043,28°28'N,16°15'W
+ Sri Lanka,N/A,Colombo,6370,88342,326411,6°56'N,79°51'E
+ Sri Lanka,N/A,Sri Jayawardenapura-Kotte,7891,115516,238978,6°55'N,79°53'E
+ Sri Lanka,N/A,Jaffna,4710,77071,219433,9°40'N,80°00'E
+ Sri Lanka,N/A,Batticaloa,1903,34173,108189,7°43'N,81°42'E
+ Sri Lanka,N/A,Kandy,490,12051,18547,7°18'N,80°38'E
+ Sudan,N/A,Omdurman,3517,3792,347224,15°39'N,32°29'E
+ Sudan,N/A,Khartoum,21914,524207,895082,15°38'N,32°32'E
+ Suriname,N/A,Paramaribo,1004,3837,66912,5°52'N,55°10'W
+ Swaziland,N/A,Lobamba,4149,98678,20224,26°25'S,31°10'E
+ Swaziland,N/A,Manzini,26302,784635,522662,26°29'S,31°22'E
+ Swaziland,N/A,Mbabane,27009,19468,1178167,26°19'S,31°08'E
+ Sweden,Norrbotten,Boden,25258,442265,1707482,65°50'N,21°43'E
+ Sweden, Östergötland,Linköping,26577,624071,1043683,58°24'N,15°37'E
+ Sweden,Västernorrland,Örnsköldsvik,677,11005,14263,63°17'N,18°44'E
+ Sweden,Västerbotten,Skellefteå,3645,101805,218426,64°45'N,20°57'E
+ Sweden, Gotland,Visby,19658,263942,401377,57°38'N,18°17'E
+ Sweden,Västerbotten,Umeå,29224,641786,1089023,63°50'N,20°16'E
+ Sweden,Närke,Örebro,24754,521073,2097050,59°16'N,15°12'E
+ Sweden,Norrbotten,Luleå,18520,167297,473026,65°35'N,22°09'E
+ Sweden,Norrbotten,Gällivare,29595,620154,2056903,67°08'N,20°40'E
+ Sweden,Norrbotten,Piteå,14702,103481,1243954,65°20'N,21°30'E
+ Sweden,N/A,Malmö,21221,557541,1918394,55°35'N,13°02'E
+ Sweden,Uppland,Uppsala,19308,529179,1474295,59°51'N,17°39'E
+ Sweden,Stockholm County,Stockholm,10139,165177,611802,59°20'N,18°04'E
+ Sweden,Norrbotten,Haparanda,14323,90544,771758,65°50'N,24°08'E
+ Sweden, Jämtland,Östersund,11238,62335,459015,63°11'N,14°40'E
+ Sweden, Västergötland,Gothenburg,5600,134513,471662,57°42'N,11°58'E
+ Sweden,Västernorrland,Sundsvall,18678,9476,377484,62°24'N,17°19'E
+ Sweden,Norrbotten,Kiruna,15680,276621,460108,67°51'N,20°13'E
+ Sweden, Östergötland,Norrköping,21588,133864,1109523,58°36'N,16°12'E
+ Syria,N/A,Damascus,23454,454837,2185150,33°31'N,36°18'E
+ Syria,N/A,Latakia,9067,40889,650531,35°31'N,35°47'E
+ Tajikistan,N/A,Dushanbe,5158,98280,306903,38°32'N,68°47'E
+ Tanzania,N/A,Dar es Salaam,18606,453117,791301,6°48'S,39°17'E
+ Tanzania,N/A,Dodoma,12691,258261,179373,6°10'S,35°45'E
+ Tanzania,N/A,Mwanza,12520,229372,608304,2°31'S,32°54'E
+ Tanzania,N/A,Zanzibar City,25673,208485,1095308,6°10'S,39°12'E
+ Thailand,Chiang Rai Province,Chiang Rai,16400,137443,1159952,19°55'N,99°50'E
+ Thailand,Chiang Mai Province,Chiang Mai,28026,28118,1393902,18°48'N,99°00'E
+ Thailand,N/A,Khon Kaen,15282,196168,1192455,16°26'N,102°50'E
+ Thailand,N/A,Hat Yai,25332,333291,231284,7°01'N,100°28'E
+ Thailand,N/A,Pattaya,21737,50589,508659,12°56'N,100°53'E
+ Thailand,N/A,Bangkok,15698,92496,585213,13°45'N,100°28'E
+ Thailand,N/A,Surat Thani,6036,171916,597223,9°08'N,99°20'E
+ Thailand,N/A,Udon Thani,509,6703,7591,17°25'N,102°45'E
+ Thailand,N/A,Nakhon Ratchasima,10510,293044,17719,14°59'N,102°06'E
+ Thailand,N/A,Ayutthaya,21180,342516,404897,14°21'N,100°34'E
+ Thailand,N/A,Phuket,8903,26805,437061,7°53'N,98°24'E
+ Timor-Leste,N/A,Dili,3075,90643,182029,8°33'S,125°35'E
+ Togo,N/A,Lomé,28402,607980,861722,6°08'N,1°13'E
+ Tonga,N/A,Nuku?alofa,25633,204132,647033,21°08'S,175°12'W
+ Trinidad and Tobago,N/A,Chaguanas,7077,174312,172224,10°30'N,61°23'W
+ Trinidad and Tobago,N/A,San Fernando,4961,117015,229826,10°17'N,61°28'W
+ Trinidad and Tobago,N/A,Port of Spain,28376,582361,169398,10°40'N,61°31'W
+ Tunisia,N/A,Sfax,718,5963,54543,34°44'N,10°46'E
+ Tunisia,N/A,Tunis,27065,690450,2604869,36°48'N,10°11'E
+ Turkey,N/A,Mugla,29465,196359,524698,37°13'N,28°22'E
+ Turkey,N/A,Gaziantep,15564,370425,637356,37°04'N,37°23'E
+ Turkey,N/A,Adana,521,14174,28823,37°00'N,35°19'E
+ Turkey,N/A,Eskisehir,8007,188190,756742,39°47'N,30°31'E
+ Turkey,N/A,Trabzon,21282,567663,53647,41°00'N,39°44'E
+ Turkey,N/A,Istanbul,5154,12900,182275,41°01'N,28°57'E
+ Turkey,N/A,Izmir,16913,106477,80502,38°26'N,27°09'E
+ Turkey,N/A,Mersin,13594,313799,203978,36°48'N,34°38'E
+ Turkey,N/A,Bursa,5574,129247,451712,40°11'N,29°03'E
+ Turkey,N/A,Ankara,6938,77549,643551,39°56'N,32°52'E
+ Turkey,N/A,Konya,5631,164533,158574,37°52'N,32°29'E
+ Turkmenistan,N/A,Ashgabat,28044,775772,594026,37°56'N,58°22'E
+ Tuvalu,N/A,Funafuti,27442,76763,1298196,8°31'S,179°13'E
+ Tuvalu,N/A,Nukulaelae,8498,113068,72222,9°23'S,179°51'E
+ Uganda,N/A,Kampala,29368,297575,2384340,0°19'N,32°35'E
+ Uganda,N/A,Entebbe,3440,88626,254001,0°03'N,32°28'E
+ Ukraine, Kiev Oblast,Kiev,16084,281772,688590,50°27'N,30°31'E
+ Ukraine, Kharkiv Oblast,Kharkiv,28355,395924,647918,50°00'N,36°14'E
+ Ukraine, Odessa Oblast,Odessa,24697,369237,1712326,46°28'N,30°44'E
+ Ukraine, Donetsk Oblast,Donetsk,23947,216803,1866872,48°00'N,37°48'E
+ Ukraine, Lviv Oblast,Lviv,13552,318196,287428,49°51'N,24°01'E
+ Ukraine,N/A,Dnipro,12300,364943,332948,48°24'N,34°59'E
+ Ukraine  Russia (disputed), Crimea,Simferopol,7122,125888,536606,44°57'N,34°06'E
+ United Arab Emirates, Abu Dhabi,Al Ain,12530,325264,159648,24°12'N,55°44'E
+ United Arab Emirates, Abu Dhabi,Abu Dhabi,4345,126920,130066,24°28'N,54°22'E
+ United Arab Emirates, Dubai,Dubai,9994,162190,90253,25°15'N,55°18'E
+UK, Scotland,Glasgow,453,8967,3919,55°51'N,4°16'W
+UK, England,London,8697,150693,82181,51°30'N,0°08'W
+UK, England,Cambridge,770,14406,10113,52°12'N,0°07'E
+UK, England,Exeter,28212,154730,797678,50°43'N,3°32'W
+UK, England,Middlesbrough,9201,246273,791500,54°34'N,1°14'W
+UK, Bermuda,Hamilton,14037,58871,29422,32°18'N,64°47'W
+UK, British Virgin Islands,Road Town,19012,251060,1787607,18°26'N,64°37'W
+UK, England,Manchester,3199,77710,164552,53°28'N,2°14'W
+UK, England,Derby,18096,376688,1025976,52°55'N,1°28'W
+UK, England,Winchester,12463,342559,16512,51°06'N,1°30'E
+UK, Shetland,Lerwick,18999,329386,470157,60°15'N,1°15'W
+UK, England,Lancaster,13427,323086,611762,54°03'N,2°48'W
+UK, England,Oxford,350,8017,12517,51°45'N,1°15'W
+UK, Wales,Cardiff,1573,36940,110496,51°29'N,3°11'W
+UK, England,Coventry,26581,531645,897698,52°24'N,1°31'W
+UK, Anguilla,The Valley,27271,470920,1914837,18°13'N,63°03'W
+UK, Tristan da Cunha,Edinburgh of the Seven Seas,2977,68118,98369,37°04'S,12°19'W
+UK, Pitcairn Islands,Adamstown,19974,513882,1618501,25°04'S,130°06'W
+UK, Scotland,Stirling,16736,316827,1354521,56°09'N,3°56'W
+UK, England,Bristol,28471,313216,2311603,51°27'N,2°35'W
+UK, England,Portsmouth,16012,41115,965266,50°49'N,1°05'W
+UK, England,Bath,8579,198714,390250,51°23'N,2°22'W
+UK, Gibraltar,Gibraltar,4590,2989,190391,36°08'N,5°21'W
+UK, England,York,20442,202441,1191907,53°58'N,1°05'W
+UK, England,Birmingham,27517,79938,197089,52°29'N,1°54'W
+UK, England,Greenwich,2609,36693,34877,51°29'N,0°00'E/W
+UK, Isle of Man,Douglas,23205,511969,1986132,54°09'N,4°29'W
+UK, Saint Helena,Jamestown,20279,76863,247915,15°55'S,5°43'W
+UK, Scotland,Dundee,25150,719319,209147,56°28'N,2°58'W
+UK, England,Nottingham,27392,571651,886934,52°57'N,1°08'W
+UK, England,Bradford,13658,404822,411422,53°48'N,1°45'W
+UK, England,Peterborough,6398,113103,560513,52°35'N,0°15'W
+UK, Wales,Swansea,3597,54017,166003,51°37'N,3°57'W
+UK, Scotland,Inverness,14862,165008,633680,57°28'N,4°14'W
+UK, Scotland,Edinburgh,9172,35046,653734,55°57'N,3°11'W
+UK,Northern Ireland,Derry,11006,174955,776840,55°00'N,7°18'W
+UK, British Antarctic Territory,Rothera,5098,2593,6710,67°34'S,68°08'W
+UK,Northern Ireland,Belfast,20376,118063,932761,54°36'N,5°56'W
+UK, England,Sunderland,28181,284542,675892,54°54'N,1°23'W
+UK, Falkland Islands,Stanley,4902,22439,321570,51°42'S,57°52'W
+UK, England,Norwich,7490,164043,412698,52°38'N,1°18'E
+UK, England,Brighton and Hove,1486,1874,92894,50°50'N,0°09'W
+UK, South Georgia and the South Sandwich Islands,Grytviken,27859,582120,1960920,54°17'S,36°30'W
+UK, England,Plymouth,2983,54643,116119,50°22'N,4°09'W
+UK, England,Gloucester,11854,107666,1106658,51°52'N,2°14'W
+UK, Scotland,Aberdeen,28542,802768,1198945,57°09'N,2°07'W
+UK, Cayman Islands,George Town,10250,152518,337789,19°18'N,81°23'W
+UK, England,Sheffield,26008,328204,390390,53°23'N,1°28'W
+UK, Turks and Caicos Islands,Cockburn Town,1660,1411,97507,21°28'N,71°08'W
+UK, England,Leeds,17030,291083,280921,53°48'N,1°33'W
+UK, England,Liverpool,8559,215053,324765,53°24'N,2°59'W
+UK, England,Newcastle upon Tyne,7467,48199,722958,54°58'N,1°37'W
+UK, England,Leicester,4630,69005,364989,52°38'N,1°08'W
+UK, England,Southampton,15369,107251,1392874,50°54'N,1°24'W
+USA, Tennessee,Memphis,27863,567699,1669004,35°07'N,89°58'W
+USA, Louisiana,Shreveport,3674,70394,332456,32°28'N,93°42'W
+USA, West Virginia,Charleston,22779,52177,637365,38°21'N,81°38'W
+USA, Ohio,Cleveland,13634,173171,371531,41°29'N,81°40'W
+USA, Georgia,Atlanta,27415,718534,694607,33°45'N,84°23'W
+USA, Minnesota,Minneapolis,23285,184505,2060966,44°59'N,93°16'W
+USA, Alabama,Mobile,14019,388514,1323699,30°42'N,88°03'W
+USA, Nevada,Reno,11963,324650,104201,39°32'N,119°49'W
+USA, Oklahoma,Tulsa,2163,41850,44610,36°08'N,95°56'W
+USA, Washington,Seattle,27938,182557,299790,47°37'N,122°20'W
+USA, United States Virgin Islands,Charlotte Amalie,2093,49555,87560,18°21'N,64°57'W
+USA, Delaware,Dover,8102,194118,134125,39°10'N,75°32'W
+USA, Tennessee,Knoxville,1367,3730,9364,35°58'N,83°57'W
+USA, Alaska,Juneau,21046,313458,1112622,58°18'N,134°25'W
+USA, Wyoming,Cheyenne,10666,114349,171963,41°09'N,104°48'W
+USA, Mississippi,Jackson,14752,390235,128180,32°18'N,90°11'W
+USA, South Carolina,Charleston,21657,487666,632574,32°47'N,79°56'W
+USA, Colorado,Denver,27288,78253,1651661,39°44'N,104°59'W
+USA, Alaska,Barrow,2914,23735,246597,71°18'N,156°46'W
+USA, Nevada,Las Vegas,22087,657196,667237,36°11'N,115°08'W
+USA, New York,Rochester,14411,266012,1030755,43°10'N,77°37'W
+USA, Texas,El Paso,5762,39149,191207,31°47'N,106°25'W
+USA, Kentucky,Louisville,16437,420686,1496482,38°15'N,85°46'W
+USA, South Dakota,Pierre,15174,329050,1394068,44°22'N,100°20'W
+USA, Florida,Tampa,24805,370805,1665264,27°57'N,82°28'W
+USA, Louisiana,New Orleans,9498,246649,81218,29°58'N,90°03'W
+USA, Alaska,Adak,28869,839814,2262115,51°53'N,176°39'W
+USA, Ohio,Cincinnati,23596,380761,1246765,39°06'N,84°31'W
+USA, Alaska,Deadhorse,26923,185316,1155711,70°12'N,148°31'W
+USA, Texas,Dallas,6155,45265,344978,32°47'N,96°48'W
+USA, Hawaii,Honolulu,26285,575851,1955191,21°19'N,157°50'W
+USA, North Carolina,Wilmington,7778,176308,664211,34°13'N,77°55'W
+USA, California,Oakland,1160,33732,78950,37°48'N,122°16'W
+USA, New Mexico,Santa Fe,21248,55143,1469179,35°40'N,105°58'W
+USA, Alaska,Sitka,21017,531874,992669,57°03'N,135°20'W
+USA, Oregon,Portland,12953,322564,156106,45°31'N,122°41'W
+USA, Guam,Hagåtña,3743,96518,109673,13°29'N,144°45'E
+USA, Michigan,Detroit,9067,151847,4268,42°20'N,83°03'W
+USA, California,San Jose,2036,24339,188243,37°20'N,121°53'W
+USA, Maryland,Baltimore,20419,92641,1882297,39°17'N,76°37'W
+USA, Northern Mariana Islands,Saipan,13527,26432,1286209,15°11'N,145°45'E
+USA, Massachusetts,Boston,3693,105071,283242,42°21'N,71°04'W
+USA, New Hampshire,Concord,20819,287753,1401034,43°12'N,71°32'W
+USA, Tennessee,Nashville,1334,14839,113300,36°10'N,86°47'W
+USA, Arizona,Tucson,13868,185450,839178,32°13'N,110°56'W
+USA, Vermont,Montpelier,15282,116685,1203106,44°15'N,72°34'W
+USA, Idaho,Boise,3848,36676,276592,43°37'N,116°12'W
+USA, Indiana,Fort Wayne,4405,52515,58682,41°05'N,85°08'W
+USA, Puerto Rico,San Juan,11738,91174,701636,18°27'N,66°04'W
+USA, Alaska,Fritz Creek,14474,391239,130841,59°46'N,151°13'W
+USA, Ohio,Columbus,17795,101745,1727793,39°59'N,82°59'W
+USA, Texas,Corpus Christi,22419,642157,2215780,27°44'N,97°24'W
+USA, Missouri,St. Louis,2761,48236,218260,38°38'N,90°12'W
+USA, Texas,Austin,4141,122750,153346,30°15'N,97°45'W
+USA, New Jersey,Forked River,1410,30106,64200,39°48'N,74°06'W
+USA, New York,New York City,27256,127744,2415239,40°40'N,73°56'W
+USA, Utah,Salt Lake City,6444,178667,172190,40°45'N,111°53'W
+USA, Pennsylvania,Philadelphia,13323,135937,780932,39°57'N,75°10'W
+USA, California,El Centro,3627,13913,332522,32°38'N,115°33'W
+USA, Arkansas,Little Rock,27409,543487,1621724,34°44'N,92°20'W
+USA, Texas,Lubbock,25647,636373,130624,33°34'N,101°51'W
+USA, California,Los Angeles,14410,393137,542387,34°03'N,118°15'W
+USA, Alaska,Nome,7721,39102,508552,64°30'N,165°23'W
+USA, Alabama,Birmingham,15615,33370,253766,33°39'N,86°49'W
+USA, Wisconsin,Milwaukee,28652,485696,388174,43°03'N,87°57'W
+USA, Kansas,Wichita,26081,543256,2178588,37°41'N,97°20'W
+USA, American Samoa,Pago Pago,9955,119179,817761,14°17'S,170°42'W
+USA, Florida,Key West,15067,218457,651320,24°34'N,81°47'W
+USA, Minnesota,Duluth,22915,529689,808701,46°48'N,92°06'W
+USA, New Jersey,Trenton,10148,125649,940822,40°13'N,74°46'W
+USA, New Mexico,Albuquerque,22411,636781,1556572,35°07'N,106°37'W
+USA, Pennsylvania,Pittsburgh,702,15391,59393,40°27'N,80°00'W
+USA, South Dakota,Sioux Falls,14359,218000,1402504,43°32'N,96°43'W
+USA, Virginia,Virginia Beach,28659,676540,2767202,36°51'N,75°59'W
+USA, Florida,Jacksonville,28658,655226,899441,30°20'N,81°40'W
+USA, Florida,Miami,25948,513214,2179763,25°47'N,80°13'W
+USA, Alaska,Anchorage,8160,23234,59968,61°13'N,149°54'W
+USA, Alaska,Fairbanks,8313,71374,484723,64°51'N,147°43'W
+USA, Colorado,Boulder,17730,234673,613366,40°01'N,105°17'W
+USA, Maine,Augusta,6959,11600,480226,44°19'N,69°47'W
+USA, New Mexico,Los Alamos,24806,456764,1637699,35°53'N,106°18'W
+USA, Oklahoma,Oklahoma City,3560,30738,40393,35°29'N,97°32'W
+USA, Illinois,Chicago,12703,249862,891248,41°53'N,87°38'W
+USA, New Jersey,Jersey City,28497,267370,414848,40°43'N,74°04'W
+USA, California,San Francisco,28319,58655,1773965,37°47'N,122°25'W
+USA, California,Riverside,12056,263171,485456,33°57'N,117°24'W
+USA, Iowa,Des Moines,24044,633484,2324414,41°35'N,93°37'W
+USA, Missouri,Springfield,29288,131376,938564,37°12'N,93°17'W
+USA, Washington,Bellingham,26261,226827,1225153,48°45'N,122°29'W
+USA, Missouri,Kansas City,29305,540307,525543,39°06'N,94°35'W
+USA, North Carolina,Charlotte,27865,62005,32617,35°14'N,80°51'W
+USA, Connecticut,Hartford,25897,467941,2031003,41°46'N,72°40'W
+USA, New York,Buffalo,23916,671186,276270,42°54'N,78°51'W
+USA, Nebraska,Lincoln,25054,183185,1725459,40°49'N,96°41'W
+USA, Arizona,Phoenix,3225,12912,12875,33°27'N,112°04'W
+USA, Florida,Orlando,27656,685104,1971650,28°25'N,81°18'W
+USA, Indiana,Indianapolis,17,183,220,39°46'N,86°09'W
+USA, South Carolina,Columbia,18532,188773,363936,34°00'N,81°03'W
+USA, Texas,Brownsville,21368,11182,384876,25°55'N,97°29'W
+USA, Maine,Bath,10671,190035,420691,43°55'N,69°49'W
+USA, District of Columbia,Washington,3577,46407,219478,38°54'N,77°02'W
+USA,  North Dakota,Bismarck,21079,274505,1965975,46°49'N,100°47'W
+USA, Guam,Dededo,6075,18321,187607,13°31'N,144°50'E
+USA, Texas,San Antonio,19462,84270,1383400,29°25'N,98°30'W
+USA, California,Eureka,24324,76673,365141,40°48'N,124°09'W
+USA, Hawaii,Hilo,9971,171009,541162,19°42'N,155°05'W
+USA, California,San Diego,23180,679383,1587418,32°43'N,117°10'W
+USA, Rhode Island,Providence,22098,225275,336762,41°49'N,71°25'W
+USA, California,Santa Barbara,385,2011,14869,34°26'N,119°43'W
+USA, Texas,Houston,1367,18810,131302,29°46'N,95°23'W
+USA, North Carolina,Raleigh,280,6029,17257,35°49'N,78°39'W
+USA, Idaho,Moscow,19297,164206,1516182,46°44'N,117°00'W
+USA, Montana,Helena,8363,170038,622938,46°36'N,112°02'W
+USA, California,Sacramento,17511,348300,1133493,38°33'N,121°28'W
+ Uruguay,N/A,Montevideo,4088,39310,124503,34°53'S,56°11'W
+ Uzbekistan,N/A,Namangan,6615,86493,520310,41°00'N,71°40'E
+ Uzbekistan, Karakalpakstan,Nukus,7177,203273,49219,42°28'N,59°36'E
+ Uzbekistan,N/A,Tashkent,6215,43088,215200,41°16'N,69°13'E
+ Vanuatu,N/A,Port Vila,20050,257235,959936,17°45'S,168°18'E
+ Venezuela, Mérida,Mérida,14733,315346,1259477,8°35'N,71°08'W
+ Venezuela, Táchira,San Cristóbal,18262,282510,1623151,7°45'N,72°13'W
+ Venezuela,N/A,Caracas,3816,25966,28456,10°30'N,66°55'W
+ Venezuela,N/A,Puerto Ayacucho,7111,150710,172249,5°40'N,67°38'W
+ Venezuela,N/A,Maracay,29126,811967,430510,10°15'N,67°36'W
+ Venezuela,N/A,Maracaibo,14071,222612,935871,10°39'N,71°38'W
+ Venezuela,Carabobo,Valencia,25794,468816,1231892,10°11'N,68°00'W
+ Venezuela,N/A,Ciudad Bolívar,3103,39260,305487,8°07'N,63°33'W
+ Vietnam,N/A,Hai Phong,3847,65954,39381,20°51'N,106°41'E
+ Vietnam,N/A,Hu?,25009,94801,1719312,16°28'N,107°35'E
+ Vietnam,N/A,Da Nang,25264,111096,1850697,16°04'N,108°14'E
+ Vietnam,N/A,Ho Chi Minh City,19206,284366,1289047,10°46'N,106°41'E
+ Vietnam,N/A,Hanoi,29885,327509,2891435,21°02'N,105°51'E
+ Vietnam,N/A,Son My,12376,284863,664890,15°11'N,108°53'E
+ Yemen,N/A,Sana'a,7821,112393,115455,15°21'N,44°12'E
+ Zambia,N/A,Ndola,17251,517352,329434,12°58'S,28°38'E
+ Zambia,N/A,Livingstone,3040,73091,155925,17°51'S,25°52'E
+ Zambia,N/A,Lusaka,16770,352706,555200,15°25'S,28°17'E
+ Zimbabwe,Midlands,Gweru,25342,707265,2358564,19°27'S,29°48'E
+ Zimbabwe,Manicaland,Mutare,3682,102891,52984,18°58'S,32°38'E
+ Zimbabwe,Harare,Harare,13454,160941,1260590,17°52'S,31°02'E
+ Zimbabwe,Bulawayo,Bulawayo,4515,79295,160839,20°10'S,28°35'E
+Afghanistan,N/A,Kandahar,20476,41900,245576,31°37'N,65°43'E
+Nepal,N/A,Kathmandu,6181,142118,474527,27°42'N,85°20'E
+Switzerland,N/A,Geneva,26298,642636,967094,46°12'N,6°09'E
+Switzerland,N/A,Zürich,23348,340322,121869,47°22'N,8°33'E
+Switzerland,Vaud,Lausanne,15759,170628,533430,46°31'N,6°38'E
+Switzerland,N/A,Bern,13813,359615,921591,46°57'N,7°27'E
+Switzerland,N/A,Basel,27626,283796,443113,47°34'N,7°36'E
+Vatican City,N/A,Vatican City,17252,178518,1137191,41°54'N,12°27'E
