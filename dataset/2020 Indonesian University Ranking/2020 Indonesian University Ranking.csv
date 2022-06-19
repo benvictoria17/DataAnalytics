@@ -1,0 +1,578 @@
+Rank,University,Town
+1,Universitas Gadjah Mada,Sleman
+2,Universitas Indonesia,Depok
+3,Universitas Diponegoro,Semarang
+4,Universitas Pendidikan Indonesia,Bandung
+5,Universitas Negeri Yogyakarta,Sleman
+6,Universitas Brawijaya,Malang
+7,Universitas Airlangga,Surabaya
+8,Universitas Sebelas Maret,Surakarta
+9,Institut Pertanian Bogor,Bogor
+10,Universitas Lampung,Bandar Lampung
+11,Universitas Negeri Semarang,Semarang
+12,Institut Teknologi Bandung,Bandung
+13,Universitas Bina Nusantara,Jakarta
+14,Universitas Muhammadiyah Malang,Malang
+15,Universitas Muhammadiyah Surakarta,Surakarta
+16,Universitas Negeri Malang,Malang
+17,Universitas Muhammadiyah Yogyakarta,Bantul
+18,Universitas Udayana,Badung
+19,Institut Teknologi Sepuluh Nopember,Surabaya
+20,Universitas Andalas,Padang
+21,Universitas Sumatera Utara,Medan
+22,Universitas Gunadarma,Depok
+23,Universitas Jember,Jember
+24,Universitas Telkom,Bandung
+25,Universitas Mercu Buana,Jakarta
+26,Universitas Islam Negeri Maulana Malik Ibrahim Malang,Malang
+27,Universitas Islam Indonesia,Sleman
+28,Universitas Islam Negeri Syarif Hidayatullah Jakarta,Tangerang Selatan
+29,Universitas Dian Nuswantoro,Semarang
+30,Universitas Padjadjaran,Sumedang
+31,Universitas Jambi,Jambi
+32,Universitas Islam Negeri Sunan Ampel Surabaya,Surabaya
+33,Universitas Syiah Kuala,Banda Aceh
+34,Universitas Hasanuddin,Makassar
+35,Universitas Pasundan,Bandung
+36,Universitas Jenderal Soedirman,Banyumas
+37,Universitas Muhammadiyah Semarang,Semarang
+38,Universitas Islam Negeri Sunan Kalijaga Yogyakarta,Sleman
+39,Universitas Islam Negeri Walisongo,Semarang
+40,Universitas Kristen Petra,Surabaya
+41,Universitas Negeri Surabaya,Surabaya
+42,Universitas Islam Negeri Sultan Syarif Kasim Riau,Pekanbaru
+43,Universitas Sanata Dharma,Sleman
+44,Universitas Esa Unggul,Jakarta
+45,Universitas Ahmad Dahlan,Yogyakarta
+46,Universitas Atma Jaya Yogyakarta,Sleman
+47,Universitas Negeri Padang,Padang
+48,Universitas Sriwijaya,Palembang
+49,Universitas Sam Ratulangi,Manado
+50,Universitas Bengkulu,Bengkulu
+51,Universitas Islam Negeri Alauddin Makassar,Makassar
+52,Universitas Islam Negeri Sunan Gunung Djati,Bandung
+53,Universitas Islam Bandung,Bandung
+54,Universitas Komputer Indonesia,Bandung
+55,Universitas Pamulang,Tangerang
+56,Universitas Muhammadiyah Purwokerto,Banyumas
+57,Universitas Riau,Pekanbaru
+58,Universitas Pendidikan Ganesha,Singaraja
+59,Universitas Muhammadiyah Ponorogo,Ponorogo
+60,Universitas Islam Sultan Agung,Semarang
+61,Universitas PGRI Madiun,Madiun
+62,Universitas Negeri Medan,Medan
+63,Universitas Narotama,Surabaya
+64,Universitas Islam Negeri Sumatera Utara,Medan
+65,Universitas Tanjungpura,Pontianak
+66,Universitas Mulawarman,Samarinda
+67,Universitas Sarjanawiyata Tamansiswa,Yogyakarta
+68,Universitas Pelita Harapan,Tangerang
+69,Universitas Negeri Jakarta,Jakarta
+70,Universitas Surabaya,Surabaya
+71,Universitas Lambung Mangkurat,Banjarmasin
+72,Universitas Dr. Soetomo,Surabaya
+73,Universitas Katolik Indonesia Atma Jaya,Jakarta
+74,Universitas Bina Sarana Informatika,Bandung
+75,Universitas 17 Agustus 1945 Surabaya,Surabaya
+76,Universitas Katolik Soegijapranata,Semarang
+77,Universitas Katolik Parahyangan,Bandung
+78,Universitas Muhammadiyah Sumatera Utara,Medan
+79,Universitas Mercu Buana Yogyakarta,Yogyakarta
+80,Universitas Tadulako,Palu
+81,Universitas Kristen Maranatha,Bandung
+82,Universitas Kristen Duta Wacana,Yogyakarta
+83,Universitas Trisakti,Jakarta
+84,Universitas Islam Negeri Raden Intan Lampung,Bandar Lampung
+85,Universitas Medan Area,Medan
+86,Universitas Mataram,Mataram
+87,Universitas Muhammadiyah Sidoarjo,Sidoarjo
+88,Universitas Katolik Widya Mandala Surabaya,Surabaya
+89,Universitas Pembangunan Nasional Veteran Jakarta,Jakarta
+90,Universitas Semarang,Semarang
+91,Universitas Kristen Satya Wacana,Salatiga
+92,Universitas Pembangunan Nasional Veteran Yogyakarta,Sleman
+93,Universitas Sultan Ageng Tirtayasa,Serang
+94,Universitas Widyatama,Bandung
+95,Universitas Muhammadiyah Surabaya,Surabaya
+96,Universitas Muhammadiyah Prof. Dr. Hamka,Jakarta
+97,Universitas Negeri Makassar,Makassar
+98,Universitas Trunojoyo Madura,Bangkalan
+99,Institut Seni Indonesia Yogyakarta,Yogyakarta
+100,Universitas Islam Negeri Ar-Raniry,Banda Aceh
+101,Universitas Swadaya Gunung Jati,Cirebon
+102,Universitas Ciputra,Surabaya
+103,Universitas Muhammadiyah Purworejo,Purworejo
+104,Universitas Muria Kudus,Kudus
+105,Universitas Islam Negeri Raden Fatah,Palembang
+106,Universitas Pembangunan Nasional Veteran Jawa Timur,Surabaya
+107,Universitas Muhammadiyah Metro,Metro
+108,Universitas Islam Malang,Malang
+109,Universitas Halu Oleo,Kendari
+110,Universitas Tarumanagara,West Jakarta
+111,Universitas AMIKOM Yogyakarta,Sleman
+112,Universitas Budi Luhur,Jakarta
+113,Universitas Multimedia Nusantara,Tangerang
+114,Institut Seni Indonesia Surakarta,Surakarta
+115,Universitas Darma Persada,Jakarta
+116,Universitas Muhammadiyah Jakarta,South Tangerang
+117,Universitas Potensi Utama,Medan
+118,Universitas Negeri Gorontalo,Gorontalo
+119,Universitas 17 Agustus 1945 Samarinda,Samarinda
+120,Universitas Wahid Hasyim,Semarang
+121,Institut Teknologi Nasional,Bandung
+122,Universitas Darussalam Gontor,Ponorogo
+123,Universitas Pakuan,Bogor
+124,Universitas Dinamika,Surabaya
+125,Universitas Tidar Magelang,Magelang
+126,Universitas Nasional,Jakarta
+127,Universitas PGRI Semarang,Semarang
+128,Universitas Aisyiyah Yogyakarta,Sleman
+129,Universitas Malikussaleh,Aceh Utara
+130,Universitas Bina Darma,Palembang
+131,Universitas Pancasila,Jakarta
+132,Universitas Stikubank,Semarang
+133,Institut Seni Indonesia Denpasar,Denpasar
+134,Universitas Al Azhar Indonesia,Jakarta
+135,Universitas Islam Negeri Antasari,Banjarmasin
+136,Universitas Muhammadiyah Makassar,Makassar
+137,Universitas Pattimura,Ambon
+138,Universitas Siliwangi,Tasikmalaya
+139,Universitas YARSI,Jakarta
+140,Universitas Kanjuruhan Malang,Malang
+141,Universitas Muhammadiyah Jember,Jember
+142,Universitas Merdeka Malang,Malang
+143,Universitas Presiden,Jababeka
+144,Universitas Muhammadiyah Palembang,Palembang
+145,Universitas Muhammadiyah Palangkaraya,Palangkaraya
+146,Universitas Muhammadiyah Magelang,Magelang
+147,Universitas Paramadina,Jakarta
+148,Universitas Bangka Belitung,Pangkalpinang
+149,Universitas Bakrie,Jakarta
+150,Universitas Tribhuwana Tungga Dewi,Malang
+151,Universitas Maritim Raja Ali Haji,Tanjung Pinang
+152,Universitas Muslim Indonesia,Makassar
+153,Universitas Jenderal Achmad Yani,Cimahi
+154,Universitas Kuningan,Kuningan
+155,Universitas 17 Agustus 1945 Semarang,Semarang
+156,Universitas Sulawesi Barat,Majene
+157,Universitas Nahdlatul Ulama Surabaya,Surabaya
+158,Universitas Singaperbangsa Karawang,Karawang
+159,Universitas Islam Riau,Pekanbaru
+160,Universitas Kristen Indonesia,Jakarta
+161,Universitas Islam Sumatera Utara,Medan
+162,Universitas PGRI Palembang,Palembang
+163,Universitas Nusantara PGRI Kediric,Kediri
+164,Universitas Buana Perjuangan Karawang,Karawang
+165,Universitas Muhammadiyah Aceh,Banda Aceh
+166,Universitas Hang Tuah,Surabaya
+167,Universitas Papua,Manokwari
+168,Universitas Muhammadiyah Gresik,Gresik
+169,Universitas Wijaya Kusuma Surabaya,Surabaya
+170,Universitas Nusa Cendana,Kupang
+171,Universitas Garut,Garut
+172,Universitas Khairun,Ternate
+173,Universitas Samudra Langsa,Langsa
+174,Universitas Slamet Riyadi,Surakarta
+175,Universitas Bhayangkara Jakarta Raya,Jakarta
+176,Universitas Alma Ata,Yogyakarta
+177,Universitas Palangka Raya,Palangka Raya
+178,Universitas Bunda Mulia,Jakarta
+179,Universitas Djuanda,Bogor
+180,Universitas Pesantren Tinggi Darul 'Ulum,Jombang
+181,Universitas Islam Kalimantan Muhammad Arsyad Al Banjari,Banjarmasin
+182,Universitas Pertamina,Jakarta
+183,Universitas Warmadewa,Denpasar
+184,Universitas 17 Agustus 1945,Jakarta
+185,Universitas Darussalam Ambon,Ambon
+186,Universitas Prima Indonesia,Medan
+187,Universitas Teknologi Yogyakarta,Sleman
+188,Universitas Muhammadiyah Banjarmasin,Banjarmasin
+189,Universitas Setia Budi Surakarta,Surakarta
+190,Universitas Lancang Kuning,Pekanbaru
+191,Universitas Muhammadiyah Riau,Pekanbaru
+192,Universitas Hamzanwadi,Lombok Timur
+193,Universitas Negeri Manado,Minahasa
+194,Universitas Ibn Khaldun,Bogor
+195,Universitas Dehasen Bengkulu,Bengkulu
+196,Universitas Sains Al-Qur'an,Wonosobo
+197,Universitas Bung Hatta,Padang
+198,Universitas Internasional Batam,Batam
+199,Universitas Respati Indonesia,Jakarta
+200,Universitas Kristen Krida Wacana,Jakarta
+201,Universitas Teuku Umar,Aceh Barat
+202,Universitas Cenderawasih,Jayapura
+203,Universitas Galuh Ciamis,Ciamis
+204,Universitas Islam Nahdlatul Ulama,Jepara
+205,Universitas Swiss German,Tangerang
+206,Universitas Indraprasta PGRI,Jakarta
+207,Universitas PGRI Yogyakarta,Bantul
+208,Universitas HKBP Nommensen,Medan
+209,Universitas Muhammadiyah Cirebon,Cirebon
+210,Universitas Islam Darul Ulum Lamongan,Lamongan
+211,Universitas Muhammadiyah Sukabumi,Sukabumi
+212,Universitas Pembangunan Panca Budi,Medan
+213,Universitas PGRI Adi Buana,Surabaya
+214,Universitas Mahasaraswati Denpasar,Denpasar
+215,Universitas Pembangunan Jaya,Tangerang Selatan
+216,Universitas Bandar Lampung,Bandar Lampung
+217,Universitas Balikpapan,Balikpapan
+218,Universitas Islam Negeri Imam Bonjol,Padang
+219,Universitas Islam Negeri Sultan Maulana Hasanuddin Banten,Serang
+220,Universitas Cokroaminoto Palopo,Palopo
+221,Universitas Islam Negeri Mataram,Mataram
+222,Universitas Ma Chung,Malang
+223,Universitas Muhammadiyah Luwuk Banggai,Banggai
+224,Universitas Muhammadiyah Mataram,Mataram
+225,Universitas Majalengka,Majalengka
+226,Universitas Muhammadiyah Tangerang,Tangerang
+227,Institut Teknologi Nasional Malang,Malang
+228,Universitas Katolik Widya Mandira,Kupang
+229,Universitas Teknokrat Indonesia,Bandar Lampung
+230,Universitas Ngudi Waluyo,Ungaran
+231,Universitas Jayabaya,Jakarta
+232,Universitas Panca Marga,Probolinggo
+233,Universitas Persada Indonesia YAI,Jakarta
+234,Universitas Riau Kepulauan,Batam
+235,Universitas Proklamasi 45,Sleman
+236,Universitas Muhammadiyah Kalimantan Timur,Samarinda
+237,Universitas Musamus Merauke,Merauke
+238,Universitas Prasetiya Mulya,Jakarta
+239,Universitas Pancasakti,Tegal
+240,Universitas Pekalongan,Pekalongan
+241,Universitas Muhammadiyah Pontianak,Pontianak
+242,Universitas Advent Indonesia,Bandung
+243,Institut Seni Indonesia Padang Panjang,Padangpanjang
+244,Universitas Sampoerna,Jakarta
+245,Universitas Serambi Mekkah,Banda Aceh
+246,Universitas Janabadra,Yogyakarta
+247,Universitas Pendidikan Nasional,Denpasar
+248,Universitas Putra Indonesia YPTK Padang,Padang
+249,Universitas Muhammadiyah Kudus,Kudus
+250,Universitas Borneo Tarakan,Tarakan
+251,Universitas Muhammadiyah Palu,Palu
+252,Universitas Yudharta Pasuruan,Pasuruan
+253,Universitas Putera Batam,Batam
+254,Universitas Fajar,Makassar
+255,Universitas Podomoro,Jakarta
+256,Universitas Sahid,Jakarta
+257,Universitas Islam Jakarta,Jakarta
+258,Universitas Sangga Buana,Bandung
+259,Universitas Malahayati,Bandar Lampung
+260,Universitas Alkhairaat,Palu
+261,Universitas Indo Global Mandiri,Palembang
+262,Universitas Muhammadiyah Sumatera Barat,Padang
+263,Universitas Batanghari,Jambi
+264,Universitas Muhammadiyah Bengkulu,Bengkulu
+265,Universitas Islam Lamongan,Lamongan
+266,Universitas Nahdlatul Ulama Blitar,Blitar
+267,Universitas Dharma Andalas,Padang
+268,Universitas Abdurrab,Pekanbaru
+269,Universitas Klabat,Minahasa Utara
+270,Universitas Widya Gama,Malang
+271,Universitas Islam Negeri Sulthan Thaha Saifuddin Jambi,Jambi
+272,Universitas Bhayangkara Surabaya,Surabaya
+273,Universitas Respati Yogyakarta,Sleman
+274,Universitas Wijaya Putra,Surabaya
+275,Universitas Wisnuwardhana,Malang
+276,Universitas Wiralodra,Indramayu
+277,Universitas Nusa Putra,Sukabumi
+278,Universitas Nurul Jadid,Probolinggo
+279,Universitas Prof. Dr. Moestopo,Jakarta
+280,Universitas Surya,Tangerang
+281,Universitas Islam Syekh-Yusuf,Tangerang
+282,Universitas Pasir Pengaraian,Rokan Hulu
+283,Universitas Sembilanbelas November Kolaka,Kolaka
+284,Universitas Internasional Semen Indonesia,Gresik
+285,Universitas Surakarta,Surakarta
+286,Universitas Islam Nusantara,Bandung
+287,Universitas Islam Kadiri,Kediri
+288,Universitas Muslim Nusantara Al-Washliyah,Medan
+289,Universitas Kadiri,Kediri
+290,Universitas Baiturrahmah,Padang
+291,Universitas Al Muslim,Bireuen
+292,Universitas Hindu Indonesia,Denpasar
+293,Universitas Muhammadiyah Gorontalo,Gorontalo
+294,Universitas Islam 45 Bekasi,Bekasi
+295,Universitas Timor,Kefamenanu
+296,Universitas Langlangbuana,Bandung
+297,Universitas Widya Mataram,Yogyakarta
+298,Universitas Merdeka Madiun,Madiun
+299,Universitas Abulyatama,Aceh Besar
+300,Universitas Krisnadwipayana,Jakarta
+301,Universitas Widya Kartika,Surabaya
+302,Universitas Maarif Hasyim Latif,Sidoarjo
+303,Universitas Atma Jaya Makassar,Makassar
+304,Universitas Islam Majapahit,Mojokerto
+305,Universitas Patria Artha,Makassar
+306,Universitas Ubudiyah Indonesia,Banda Aceh
+307,Universitas Bung Karno,Jakarta
+308,Universitas Islam Batik,Surakarta
+309,Universitas Dhyana Pura,Badung
+310,Universitas Satyagama,Jakarta
+311,Universitas Bojonegoro,Bojonegoro
+312,Universitas Widya Dharma,Klaten
+313,Universitas Muhammadiyah Kendari,Kendari
+314,Universitas Dian Nusantara,Medan
+315,Universitas Teknologi Sumbawa,Sumbawa
+316,Universitas Suryakancana,Cianjur
+317,Universitas Veteran Bangun Nusantara,Sukoharjo
+318,Universitas Ekasakti,Padang
+319,Universitas Madura,Pamekasan
+320,Universitas Teknologi Sulawesi Utara,Manado
+321,Universitas Pandanaran,Semarang
+322,Universitas Buddhi Dharma,Tangerang
+323,Universitas Asahan,Asahan
+324,Universitas Katolik De La Salle,Manado
+325,Universitas Muhammadiyah Tasikmalaya,Tasikmalaya
+326,Universitas Muhammadiyah Tapanuli Selatan,Padang Sidempuan
+327,Universitas KH. A. Wahab Hasbullah,Kabupaten Jombang
+328,Universitas Darma Agung,Medan
+329,Universitas Wijaya Kusuma Purwokerto,Purwokerto
+330,Universitas Tunas Pembangunan,Surakarta
+331,Universitas PGRI Banyuwangi,Banyuwangi
+332,Universitas Trilogi,Jakarta
+333,Universitas Sahid Surakarta,Surakarta
+334,Universitas Kebangsaan,Bandung
+335,Universitas Gajayana Malang,Malang
+336,Universitas Wiraraja,Sumenep
+337,Universitas Katolik Musi Charitas,Palembang
+338,Universitas Katolik Widya Karya,Malang
+339,Universitas PGRI Ronggolawe,Tuban
+340,Universitas Islam Raden Rahmat,Malang
+341,Universitas Nahdlatul Ulama Sidoarjo,Sidoarjo
+342,Universitas Dharmawangsa,Medan
+343,Universitas Katolik Santo Thomas,Medan
+344,Universitas Pahlawan Tuanku Tambusai,Kampar
+345,Universitas Dirgantara Marsekal Suryadarma,Jakarta
+346,Universitas Abdurachman Saleh,Situbondo
+347,Universitas Katolik Widya Mandala Madiun,Madiun
+348,Universitas Kristen Indonesia Paulus,Makassar
+349,Universitas Satya Negara Indonesia,Jakarta
+350,Universitas Islam Madura Pamekasan,Pamekasan
+351,Universitas Mpu Tantular,Jakarta
+352,Universitas Tridinanti Palembang,Palembang
+353,Universitas Kutai Kartanegara,Kutai Kartanegara
+354,Universitas Duta Bangsa Surakarta,Surakarta
+355,Universitas Cokroaminoto Yogyakarta,Yogyakarta
+356,Universitas Bosowa,Makassar
+357,Universitas Muhammadiyah Parepare,Parepare
+358,Universitas Nusa Bangsa,Bogor
+359,Universitas Muhammadiyah Sorong,Sorong
+360,Universitas Hasyim Asy'ari,Jombang
+361,Universitas Sari Mutiara Indonesia,Medan
+362,Universitas Panca Bhakti,Pontianak
+363,Universitas Tanri Abeng,Jakarta
+364,Universitas Gorontalo,Gorontalo
+365,Universitas Islam As-Syafiiyah,Jakarta
+366,Universitas Widya Gama Mahakam Samarinda,Samarinda
+367,Universitas Lintas Internasional Indonesia,BSD City
+368,Universitas Islam Attahiriyah,Jakarta
+369,Universitas Nahdlatul Ulama Al Ghazali,Cilacap
+370,Universitas Islam Balitar,Blitar
+371,Universitas Islam Indragiri,Indragiri Hilir
+372,Universitas AKI,Semarang
+373,Universitas Cokroaminoto Makassar,Makassar
+374,Universitas Subang,Subang
+375,Universitas Katolik Darma Cendika,Surabaya
+376,Universitas Mathla'ul Anwar,Pandeglang
+377,Universitas Graha Nusantara Padangsidimpuan,Padangsidimpuan
+378,Universitas Serang Raya,Serang
+379,Universitas Mohammad Husni Thamrin,Jakarta
+380,Universitas Darul Ulum Islamic Centre Sudirman,Ungaran
+381,Universitas Batam,Batam
+382,Universitas Bale Bandung,Bandung
+383,Universitas Universal,Batam
+384,Universitas Simalungun,Pematangsiantar
+385,Universitas Methodist Indonesia,Medan
+386,Universitas Gresik,Gresik
+387,Universitas Nurtanio,Bandung
+388,Universitas Tamansiswa,Padang
+389,Universitas Informatika Dan Bisnis Indonesia,Bandung
+390,Universitas Kristen Immanuel,Sleman
+391,Universitas Sintuwu Maroso,Poso
+392,Universitas Nahdlatul Ulama Indonesia,Jakarta
+393,Universitas Matana,Tangerang
+394,Universitas Nahdlatul Ulama Yogyakarta,Yogyakarta
+395,Universitas Prof. DR. Hazairin SH.,Bengkulu
+396,Universitas IBA,Palembang
+397,Universitas Peradaban Bumiayu,Brebes
+398,Universitas Ngurah Rai,Denpasar
+399,Universitas Borobudur,Jakarta
+400,Universitas Sang Bumi Ruwa Jurai,Bandar Lampung
+401,Universitas Ichsan Gorontalo,Gorontalo
+402,Universitas Darul 'ulum,Jombang
+403,Universitas Jakarta,Jakarta
+404,Universitas Timbul Nusantara,Jakarta
+405,Universitas Islam Al-azhar Mataram,Mataram
+406,Universitas Halmahera,Tobelo
+407,Universitas 17 Agustus 1945 Banyuwangi,Banyuwangi
+408,Universitas Merdeka Pasuruan,Pasuruan
+409,Universitas Kristen Surakarta,Surakarta
+410,Universitas Muhammadiyah Maluku Utara,Ternate
+411,Universitas 17 Agustus 1945 Cirebon,Cirebon
+412,Universitas Nusantara Manado,Manado
+413,Universitas Muhammadiyah Buton,Baubau
+414,Universitas Islam Makassar,Makassar
+415,Universitas Tama Jagakarsa,Jakarta
+416,Universitas Nahdlatul Ulama Cirebon,Cirebon
+417,Universitas Nahdlatul Ulama Kalimantan Timur,Samarinda
+418,Universitas Andi Djemma,Palopo
+419,Universitas Kristen Indonesia Maluku,Ambon
+420,Universitas Kader Bangsa,Palembang
+421,Universitas Tulang Bawang,Bandar Lampung
+422,Universitas Azzahra,Jakarta
+423,Universitas Dayanu Ikhsanuddin,Baubau
+424,Universitas Islam Kuantan Singingi,Kuantan Singingi
+425,Universitas Banten Jaya,Serang
+426,Universitas Yapis Papua,Jayapura
+427,Universitas Nasional Pasim,Bandung
+428,Universitas Jabal Ghafur,Pidie
+429,Universitas Muhammadiyah Lampung,Bandar Lampung
+430,Universitas Efarina,Raya
+431,Universitas Al-washliyah Labuhan Batu,Labuhan Batu
+432,Universitas Nahdlatul Ulama Surakarta,Surakarta
+433,Universitas Dwijendra,Denpasar
+434,Universitas Al Ghifari,Bandung
+435,Universitas Kristen Wira Wacana Sumba,Sumba Timur
+436,Universitas Flores,Ende
+437,Universitas Darwan Ali,Sampit
+438,Universitas Mahaputra Muhammad Yamin,Solok
+439,Universitas Islam Jember,Jember
+440,Universitas 45 Surabaya,Surabaya
+441,Universitas Winaya Mukti,Sumedang
+442,Universitas Boyolali,Boyolali
+443,Universitas Kristen Artha Wacana,Kupang
+444,Universitas Tjut Nyak Dhien,Medan
+445,Universitas Quality,Medan
+446,Universitas Palembang,Palembang
+447,Universitas Sunan Giri,Sidoarjo
+448,Universitas Muhadi Setiabudi,Brebes
+449,Universitas Al-Azhar,Medan
+450,Universitas Pancasakti Makassar,Makassar
+451,Universitas Perjuangan Tasikmalaya,Tasikmalaya
+452,Universitas Muhammadiyah Bandung,Bandung
+453,Universitas Wanita Internasional,Bandung
+454,Universitas Pembinaan Masyarakat Indonesia,Medan
+455,Universitas Wahidiyah,Kediri
+456,Universitas Gunung Rinjani,Selong
+457,Universitas Selamat Sri,Kendal
+458,Universitas Kristen Indonesia Toraja,Tana Toraja
+459,Universitas Nahdlatul Ulama Lampung,Lampung Timur
+460,Universitas Pendidikan Muhammadiyah Sorong,Aimas
+461,Universitas Nahdlatul Wathan,Mataram
+462,Universitas Ibnu Chaldun,Jakarta
+463,Universitas Panji Sakti,Singaraja
+464,Universitas Al Asyariah Mandar,Polewali Mandar
+465,Universitas Sultan Fatah,Demak
+466,Universitas Nahdlatul Ulama Purwokerto,Banyumas
+467,Universitas Yos Soedarso,Surabaya
+468,Universitas Mahasaraswati Mataram,Mataram
+469,Universitas Nahdlatul Ulama Nusa Tenggara Barat,Mataram
+470,Universitas Antakusuma,Pangkalan Bun
+471,Universitas Pembangunan Indonesia,Manado
+472,Universitas Kristen Indonesia Tomohon,Tomohon
+473,Universitas Karimun,Karimun
+474,Universitas Surapati,Jakarta
+475,Universitas Baturaja,Ogan Komering Ulu
+476,Universitas Kahuripan Kediri,Kediri
+477,Universitas Billfath,Lamongan
+478,Universitas Alwashliyah,Medan
+479,Universitas Muhammadiyah Kupang,Kupang
+480,Universitas Islam Al-Ihya Kuningan,Kuningan
+481,Universitas Putra Indonesia,Cianjur
+482,Universitas Nahdlatul Ulama Sunan Giri,Bojonegoro
+483,Universitas Sains dan Teknologi Jayapura,Jayapura
+484,Universitas Tamansiswa Palembang,Palembang
+485,Universitas WR Supratman,Surabaya
+486,Universitas Tulungagung,Tulungagung
+487,Universitas Muara Bungo,Bungo
+488,Universitas Mahendradatta,Denpasar
+489,Universitas Dharmas Indonesia,Dharmasraya
+490,Universitas Tabanan,Tabanan
+491,Universitas Kristen Papua,Sorong
+492,Universitas PGRI Palangkaraya,Palangka Raya
+493,Universitas Madako Toli-toli,Tolitoli
+494,Universitas Kapuas Sintang,Sintang
+495,Universitas Nusa Tenggara Barat,Mataram
+496,Universitas Sjakhyakirti,Palembang
+497,Universitas Gajah Putih,Aceh Tengah
+498,Universitas Wiraswasta Indonesia,Jakarta
+499,Universitas Bandung Raya,Bandung
+500,Universitas Indonesia Timur,Makassar
+501,Universitas Iskandarmuda,Banda Aceh
+502,Universitas Bumi Hijrah Maluku Utara,Tidore Kepulauan
+503,Universitas Sari Putra Tomohon,Tomohon
+504,Universitas Nusa Nipa,Maumere
+505,Universitas Mayjen Sungkono,Mojokerto
+506,Universitas Nahdlatul Ulama Sumatera Barat,Padang
+507,Universitas Sawerigading Makassar,Makassar
+508,Universitas Tribuana Kalabahi,Alor
+509,Universitas Soerjo,Ngawi
+510,Universitas Achmad Yani,Banjarmasin
+511,Universitas Teknologi Sulawesi,Makassar
+512,Universitas Amir Hamzah,Deli Serdang
+513,Universitas Pawyatan Daha,Kediri
+514,Universitas Merdeka Surabaya,Surabaya
+515,Universitas 45 Mataram,Mataram
+516,Universitas Samawa,Sumbawa Besar
+517,Universitas Kartini,Surabaya
+518,Universitas Nahdlatul Ulama Kalimantan Barat,Pontianak
+519,Universitas Tridharma Balikpapan,Balikpapan
+520,Universitas Victory Sorong,Sorong
+521,Universitas Sunan Bonang,Tuban
+522,Universitas Islam Ogan Komering Ilir Kayuagung,Kayu Agung
+523,Universitas Kristen Palangka Raya,Palangka Raya
+524,Universitas Nahdlatul Ulama Sumatera Utara,Deli Serdang
+525,Universitas Trunajaya,Bontang
+526,Universitas Hein Namotemo,Halmahera Utara
+527,Universitas Pramita Indonesia,Tangerang
+528,Universitas Prisma,Manado
+529,Universitas Lumajang,Lumajang
+530,Universitas Teknologi Nusantara,Serang
+531,Universitas Mochammad Sroedji,Jember
+532,Universitas Bondowoso,Bondowoso
+533,Universitas Tompotika,Banggai
+534,Universitas Kaltara,Tanjung Selor
+535,Universitas Merdeka Ponorogo,Ponorogo
+536,Universitas Pejuang Republik Indonesia,Makassar
+537,Universitas Iqra Buru,Namlea
+538,Universitas Nahdlatul Ulama Kalimantan Selatan,Banjar
+539,Universitas Musi Rawas,Lubuklinggau
+540,Universitas Bakti Indonesia,Banyuwangi
+541,Universitas Gunung Kidul,Gunung Kidul
+542,Universitas Persatuan Guru 1945 NTT,Kupang
+543,Universitas San Pedro,Kupang
+544,Universitas Gunung Leuser Aceh,Aceh Tenggara
+545,Universitas Teknologi Surabaya,Surabaya
+546,Universitas Nahdlatul Ulama Sulawesi Tenggara,Kendari
+547,Universitas Mohammad Natsir Bukittinggi,Bukittinggi
+548,Universitas Islam Labuhan Batu,Labuhan Batu
+549,Universitas Sains Cut Nyak Dhien,Langsa
+550,Universitas Megou Pak Tulang Bawang,Tulang Bawang
+551,Universitas Lakidende Unaaha,Konawe
+552,Universitas Sisingamangaraja XII Tapanuli Utara,Tapanuli Utara
+553,Universitas Cordova,Sumbawa Barat
+554,Universitas Nani Bili Nusantara,Aimas
+555,Universitas Karya Dharma Makassar,Makassar
+556,Universitas Ottow Geissler,Jayapura
+557,Universitas Doktor Nugroho Magetan,Magetan
+558,Universitas Satya Wiyata Mandala,Nabire
+559,Universitas Pasifik Morotai,Morotai
+560,Universitas Aryasatya Deo Muri,Kupang
+561,Universitas Tomakaka,Mamuju
+562,Universitas Islam Sumatera Barat,Solok
+563,Universitas Karyadarma Kupang,Kupang
+564,Universitas Ma'arif Nahdlatul Ulama Kebumen,Kebumen
+565,Universitas Teknologi Indonesia,Denpasar
+566,Universitas Setia Budi Mandiri,Medan
+567,Universitas Nusa Lontar Rote,Rote-Ndao
+568,Universitas Kejuangan 45 Jakarta,Jakarta
+569,Universitas Ratu Samban,Arga Makmur
+570,Universitas Karo,Karo
+571,Universitas Dumoga Kotamobagu,Kotamobagu
+572,Universitas Sisingamangaraja XII,Medan
+573,Universitas Timika,Timika
+574,Universitas Nuku,Tidore Kepulauan
+575,Universitas Pepabri Makassar,Makassar
+576,Universitas Sulawesi Tenggara,Kendari
+577,Universitas Kristen Tentena,Poso
