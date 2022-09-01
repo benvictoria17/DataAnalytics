@@ -1,0 +1,105 @@
+Team 1,Team 2,Year,Venue,Format,Won,1st Innings,2nd Innings
+Pakistan,Sri Lanka,1984,Sharjah,ODI,Sri Lanka,N,Y
+Sri Lanka,India,1984,Sharjah,ODI,India,N,Y
+India,Pakistan,1984,Sharjah,ODI,India,Y,N
+Pakistan,Sri Lanka,1986,Colombo,ODI,Pakistan,Y,N
+Bangladesh,Pakistan,1986,Moratuwa,ODI,Pakistan,N,Y
+Bangladesh,Sri Lanka,1986,Kandy,ODI,Sri Lanka,N,Y
+Pakistan,Sri Lanka,1986,Colombo,ODI,Sri Lanka,N,Y
+Pakistan,Sri Lanka,1988,Dhaka,ODI,Sri Lanka,N,Y
+Bangladesh,India,1988,Chattogram,ODI,India,N,Y
+Sri Lanka,India,1988,Dhaka,ODI,Sri Lanka,Y,N
+Pakistan,Bangladesh,1988,Chattogram,ODI,Pakistan,Y,N
+Pakistan,India,1988,Dhaka,ODI,India,N,Y
+Bangladesh,Sri Lanka,1988,Dhaka,ODI,Sri Lanka,N,Y
+Sri Lanka,India,1988,Dhaka,ODI,India,N,Y
+Bangladesh,India,1990,Chandigarh,ODI,India,N,Y
+Sri Lanka,India,1990,Cuttack,ODI,Sri Lanka,Y,N
+Sri Lanka,Bangladesh,1990,Kolkota,ODI,Sri Lanka,Y,N
+Sri Lanka,India,1990,Kolkota,ODI,India,N,Y
+Bangladesh,India,1995,Sharjah,ODI,India,N,Y
+Sri Lanka,Bangladesh,1995,Sharjah,ODI,Sri Lanka,Y,N
+Pakistan,India,1995,Sharjah,ODI,Pakistan,Y,N
+Bangladesh,Pakistan,1995,Sharjah,ODI,Pakistan,N,Y
+Sri Lanka,India,1995,Sharjah,ODI,India,N,Y
+Pakistan,Sri Lanka,1995,Sharjah,ODI,Sri Lanka,N,Y
+Sri Lanka,India,1995,Sharjah,ODI,India,N,Y
+Sri Lanka,Pakistan,1997,Colombo,ODI,Sri Lanka,Y,N
+Pakistan,Bangladesh,1997,Colombo,ODI,Pakistan,Y,N
+India,Sri Lanka,1997,Colombo,ODI,Sri Lanka,N,Y
+Pakistan,India,1997,Colombo,ODI,No Result,N,N
+India,Pakistan,1997,Colombo,ODI,No Result,N,N
+Sri Lanka,Bangladesh,1997,Colombo,ODI,Sri Lanka,Y,N
+Bangladesh,India,1997,Colombo,ODI,India,N,Y
+India,Sri Lanka,1997,Colombo,ODI,Sri Lanka,N,Y
+Bangladesh,Sri Lanka,2000,Dhaka,ODI,Sri Lanka,N,Y
+Bangladesh,India,2000,Dhaka,ODI,India,N,Y
+Sri Lanka,India,2000,Dhaka,ODI,Sri Lanka,Y,N
+Pakistan,Bangladesh,2000,Dhaka,ODI,Pakistan,Y,N
+Pakistan,India,2000,Dhaka,ODI,Pakistan,Y,N
+Sri Lanka,Pakistan,2000,Dhaka,ODI,Pakistan,N,Y
+Pakistan,Sri Lanka,2000,Dhaka,ODI,Pakistan,Y,N
+Bangladesh,Hong Kong,2004,Colombo,ODI,Bangladesh,Y,N
+India,United Arab Emirates,2004,Dambulla,ODI,India,Y,N
+Pakistan,Bangladesh,2004,Colombo,ODI,Pakistan,Y,N
+Sri Lanka,United Arab Emirates,2004,Dambulla,ODI,Sri Lanka,Y,N
+Pakistan,Hong Kong,2004,Colombo,ODI,Pakistan,Y,N
+Sri Lanka,India,2004,Dambulla,ODI,Sri Lanka,Y,N
+Bangladesh,India,2004,Colombo,ODI,India,N,Y
+Pakistan,Sri Lanka,2004,Colombo,ODI,Sri Lanka,N,Y
+Bangladesh,Sri Lanka,2004,Colombo,ODI,Sri Lanka,N,Y
+Pakistan,India,2004,Colombo,ODI,Pakistan,Y,N
+India,Sri Lanka,2004,Colombo,ODI,India,Y,N
+Bangladesh,Pakistan,2004,Colombo,ODI,Pakistan,N,Y
+Sri Lanka,India,2004,Colombo,ODI,Sri Lanka,Y,N
+Bangladesh,United Arab Emirates,2008,Lahore,ODI,Bangladesh,Y,N
+Pakistan,Hong Kong,2008,Karachi,ODI,Pakistan,Y,N
+Sri Lanka,Bangladesh,2008,Lahore,ODI,Sri Lanka,Y,N
+India,Hong Kong,2008,Karachi,ODI,India,Y,N
+Sri Lanka,United Arab Emirates,2008,Lahore,ODI,Sri Lanka,Y,N
+Pakistan,India,2008,Karachi,ODI,India,N,Y
+Bangladesh,India,2008,Karachi,ODI,India,N,Y
+Sri Lanka,Pakistan,2008,Karachi,ODI,Sri Lanka,Y,N
+Sri Lanka,Bangladesh,2008,Karachi,ODI,Sri Lanka,Y,N
+India,Pakistan,2008,Karachi,ODI,Pakistan,N,Y
+Sri Lanka,India,2008,Karachi,ODI,India,N,Y
+Bangladesh,Pakistan,2008,Karachi,ODI,Pakistan,N,Y
+Sri Lanka,India,2008,Karachi,ODI,Sri Lanka,Y,N
+Sri Lanka,Pakistan,2010,Dambulla,ODI,Sri Lanka,Y,N
+Bangladesh,India,2010,Dambulla,ODI,India,N,Y
+Sri Lanka,Bangladesh,2010,Dambulla,ODI,Sri Lanka,Y,N
+Pakistan,India,2010,Dambulla,ODI,India,N,Y
+Pakistan,Bangladesh,2010,Dambulla,ODI,Pakistan,Y,N
+India,Sri Lanka,2010,Dambulla,ODI,Sri Lanka,N,Y
+India,Sri Lanka,2010,Dambulla,ODI,India,Y,N
+Pakistan,Bangladesh,2012,Mirpur,ODI,Pakistan,Y,N
+India,Sri Lanka,2012,Mirpur,ODI,India,Y,N
+Sri Lanka,Pakistan,2012,Mirpur,ODI,Pakistan,N,Y
+India,Bangladesh,2012,Mirpur,ODI,Bangladesh,N,Y
+Pakistan,India,2012,Mirpur,ODI,India,N,Y
+Sri Lanka,Bangladesh,2012,Mirpur,ODI,Bangladesh,N,Y
+Pakistan,Bangladesh,2012,Mirpur,ODI,Pakistan,Y,N
+Sri Lanka,Pakistan,2014,Fatullah,ODI,Sri Lanka,Y,N
+Bangladesh,India,2014,Fatullah,ODI,India,N,Y
+Pakistan,Afghanistan,2014,Fatullah,ODI,Pakistan,Y,N
+India,Sri Lanka,2014,Fatullah,ODI,Sri Lanka,N,Y
+Afghanistan,Bangladesh,2014,Fatullah,ODI,Afghanistan,Y,N
+India,Pakistan,2014,Mirpur,ODI,Pakistan,N,Y
+Sri Lanka,Afghanistan,2014,Mirpur,ODI,Sri Lanka,Y,N
+Bangladesh,Pakistan,2014,Mirpur,ODI,Pakistan,N,Y
+Afghanistan,India,2014,Mirpur,ODI,India,N,Y
+Bangladesh,Sri Lanka,2014,Mirpur,ODI,Sri Lanka,N,Y
+Pakistan,Sri Lanka,2014,Mirpur,ODI,Sri Lanka,N,Y
+Bangladesh,Sri Lanka,2018,Dubai,ODI,Bangladesh,Y,N
+Hong Kong,Pakistan,2018,Dubai,ODI,Pakistan,N,Y
+Afghanistan,Sri Lanka,2018,Abu Dhabi,ODI,Afghanistan,Y,N
+India,Hong Kong,2018,Dubai,ODI,India,Y,N
+Pakistan,India,2018,Dubai,ODI,India,N,Y
+Afghanistan,Bangladesh,2018,Abu Dhabi,ODI,Afghanistan,Y,N
+Bangladesh,India,2018,Dubai,ODI,India,N,Y
+Afghanistan,Pakistan,2018,Abu Dhabi,ODI,Pakistan,N,Y
+Pakistan,India,2018,Dubai,ODI,India,N,Y
+Bangladesh,Afghanistan,2018,Abu Dhabi,ODI,Bangladesh,Y,N
+Afghanistan,India,2018,Dubai,ODI,Tied,N,N
+Bangladesh,Pakistan,2018,Abu Dhabi,ODI,Bangladesh,Y,N
+Bangladesh,India,2018,Dubai,ODI,India,N,Y

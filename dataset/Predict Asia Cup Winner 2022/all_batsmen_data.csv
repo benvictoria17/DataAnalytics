@@ -1,0 +1,201 @@
+Team,Player,Filter,Matches,Runs,Highest,Average,Strike Rate
+India,Rohit Sharma,vs Pakistan,8,70,30,14,127.27
+India,Rohit Sharma,vs Afghanistan,2,75,74,75,156.25
+India,Rohit Sharma,vs Sri Lanka,18,339,118,21.18,138.93
+India,Rohit Sharma,vs Bangladesh,11,452,89,41.09,144.4
+India,Rohit Sharma,year 2022,13,290,64,24.16,140.09
+India,KL Rahul,vs Pakistan,1,3,3,3,37.5
+India,KL Rahul,vs Afghanistan,1,69,69,69,143.75
+India,KL Rahul,vs Sri Lanka,8,295,89,42.14,141.14
+India,KL Rahul,vs Bangladesh,5,99,52,33,128.57
+India,Virat Kohli,vs Pakistan,7,311,78,77.75,118.25
+India,Virat Kohli,vs Afghanistan,2,50,50,50,128.2
+India,Virat Kohli,vs Sri Lanka,7,339,82,84.75,140.6
+India,Virat Kohli,vs Bangladesh,4,129,57,64.5,113.15
+India,Virat Kohli,year 2022,4,81,52,20.25,128.57
+India,Suryakumar Yadav,vs Pakistan,1,11,11,11,137.5
+India,Suryakumar Yadav,vs Sri Lanka,1,50,50,50,147.05
+India,Suryakumar Yadav,year 2022,12,428,117,38.9,189.38
+India,Rishabh Pant,vs Pakistan,1,39,39,39,130
+India,Rishabh Pant,vs Afghanistan,1,27,27,,207.6
+India,Rishabh Pant,vs Sri Lanka,3,24,23,24,100
+India,Rishabh Pant,vs Bangladesh,4,40,27,13.33,93.02
+India,Rishabh Pant,year 2022,13,260,52,26,135.51
+India,Deepak Hooda,vs Sri Lanka,3,21,21,21,131.25
+India,Deepak Hooda,year 2022,9,274,104,54.8,161.17
+India,Dinesh Karthik,vs Pakistan,1,11,11,11,122.2
+India,Dinesh Karthik,vs Sri Lanka,7,92,39,92,158.6
+India,Dinesh Karthik,vs Bangladesh,3,33,29,,275
+India,Hardik Pandya,vs Pakistan,3,11,11,5.5,110
+India,Hardik Pandya,vs Afghanistan,1,35,35,,269.23
+India,Hardik Pandya,vs Sri Lanka,8,55,27,9.16,134.14
+India,Hardik Pandya,vs Bangladesh,3,46,31,23,184
+India,Hardik Pandya,year 2022,13,281,51,31.22,139.8
+India,Ravindra Jadeja,vs Pakistan,5,15,13,7.5,88.23
+India,Ravindra Jadeja,vs Sri Lanka,10,82,45,41,151.85
+India,Ravindra Jadeja,vs Bangladesh,4,12,12,12,150
+India,Ravindra Jadeja,year 2022,7,166,46,55.33,146.9
+India,R Ashwin,vs Sri Lanka,6,31,31,,129.1
+India,R Ashwin,vs Bangladesh,4,5,5,,250
+India,R Ashwin,year 2022,3,23,13,23,143.75
+Pakistan,Babar Azam,vs India,1,68,68,,130.76
+Pakistan,Babar Azam,vs Afghanistan,1,51,51,51,108.5
+Pakistan,Babar Azam,vs Sri Lanka,6,79,34,15.8,84.94
+Pakistan,Babar Azam,vs Bangladesh,5,93,66,23.25,108.13
+Pakistan,Babar Azam,year 2022,1,66,66,66,143.47
+Pakistan,Shadab Khan,vs Sri Lanka,6,22,16,11,137.5
+Pakistan,Shadab Khan,vs Bangladesh,4,21,21,,210
+Pakistan,Asif Ali,vs Afghanistan,1,25,25,,357.14
+Pakistan,Asif Ali,vs Sri Lanka,3,36,29,12,92.3
+Pakistan,Asif Ali,year 2022,1,3,3,3,60
+Pakistan,Fakhar Zaman,vs Afghanistan,1,30,30,30,120
+Pakistan,Fakhar Zaman,vs Sri Lanka,5,54,31,10.8,103.8
+Pakistan,Fakhar Zaman,vs Bangladesh,2,91,57,91,104.59
+Pakistan,Fakhar Zaman,year 2022,1,0,0,0,0
+Pakistan,Haider Ali,vs Bangladesh,3,51,45,25.5,104.08
+Pakistan,Iftikhar Ahmed,vs Sri Lanka,2,60,32,,142.85
+Pakistan,Iftikhar Ahmed,year 2022,3,10,8,10,62.5
+Pakistan,Khushdil Shah,vs Bangladesh,3,34,34,34,97.14
+Pakistan,Khushdil Shah,year 2022,1,24,24,24,114.2
+Pakistan,Mohammad Nawaz,vs Bangladesh,3,22,18,,244.4
+Pakistan,Mohammad Rizwan,vs India,1,79,79,,143.63
+Pakistan,Mohammad Rizwan,vs Afghanistan,1,8,8,8,80
+Pakistan,Mohammad Rizwan,vs Sri Lanka,2,17,17,17,94.4
+Pakistan,Mohammad Rizwan,vs Bangladesh,6,95,40,31.66,91.34
+Pakistan,Mohammad Rizwan,year 2022,1,23,23,23,121.05
+Afghanistan,Mohammad Nabi,vs India,3,66,35,22,126.92
+Afghanistan,Mohammad Nabi,vs Pakistan,2,50,35,50,119.04
+Afghanistan,Mohammad Nabi,vs Sri Lanka,1,3,3,3,75
+Afghanistan,Mohammad Nabi,vs Bangladesh,8,141,84,28.2,128.18
+Afghanistan,Mohammad Nabi,year 2022,10,130,43,18.57,123.8
+Afghanistan,Najibullah Zadran,vs India,2,16,11,8,106.66
+Afghanistan,Najibullah Zadran,vs Pakistan,2,60,38,30,117.64
+Afghanistan,Najibullah Zadran,vs Sri Lanka,1,12,12,,400
+Afghanistan,Najibullah Zadran,vs Bangladesh,7,63,27,12.6,90
+Afghanistan,Najibullah Zadran,year 2022,10,255,57,31.87,144.06
+Afghanistan,Afsar Zazai,year 2022,1,24,24,24,100
+Afghanistan,Azmatullah Omarzai,vs Bangladesh,2,20,20,20,111.11
+Afghanistan,Azmatullah Omarzai,year 2022,10,72,20,14.4,101.4
+Afghanistan,Hashmatullah Shahidi,year 2022,2,47,36,23.5,87.03
+Afghanistan,Hazratullah Zazai,vs India,1,13,13,13,86.66
+Afghanistan,Hazratullah Zazai,vs Pakistan,1,0,0,0,0
+Afghanistan,Hazratullah Zazai,vs Bangladesh,4,113,59,37.66,126.96
+Afghanistan,Hazratullah Zazai,year 2022,8,205,59,29.28,134.86
+Afghanistan,Ibrahim Zadran,year 2022,5,91,36,22.75,142.18
+Afghanistan,Karim Janat,vs India,1,42,42,,190.9
+Afghanistan,Karim Janat,vs Pakistan,1,15,15,15,88.23
+Afghanistan,Karim Janat,vs Bangladesh,7,14,6,4.66,73.68
+Afghanistan,Karim Janat,year 2022,4,18,12,9,69.23
+Afghanistan,Rahmanullah Gurbaz,vs India,1,19,19,19,190
+Afghanistan,Rahmanullah Gurbaz,vs Pakistan,1,10,10,10,142.85
+Afghanistan,Rahmanullah Gurbaz,vs Bangladesh,4,32,29,8,91.42
+Afghanistan,Rahmanullah Gurbaz,year 2022,9,145,53,16.11,116.93
+Afghanistan,Rashid Khan,vs India,1,0,0,0,0
+Afghanistan,Rashid Khan,vs Bangladesh,7,19,11,19,82.6
+Afghanistan,Rashid Khan,year 2022,10,47,31,11.75,127.02
+Afghanistan,Samiullah Shinwari,vs India,2,8,7,4,100
+Afghanistan,Samiullah Shinwari,vs Pakistan,1,16,16,16,160
+Afghanistan,Samiullah Shinwari,vs Sri Lanka,1,31,31,31,221.42
+Afghanistan,Samiullah Shinwari,vs Bangladesh,4,119,49,39.66,132.22
+Afghanistan,Samiullah Shinwari,vs Hong Kong,5,58,34,29,123.4
+Afghanistan,Samiullah Shinwari,year 2022,2,28,28,28,96.55
+Bangladesh,Shakib Al Hasan,vs India,6,62,22,10.33,106.89
+Bangladesh,Shakib Al Hasan,vs Pakistan,9,292,84,41.71,127.51
+Bangladesh,Shakib Al Hasan,vs Sri Lanka,8,154,38,19.25,111.59
+Bangladesh,Shakib Al Hasan,vs Afghanistan,8,137,70,22.83,112.29
+Bangladesh,Shakib Al Hasan,vs Hong Kong,1,34,34,34,125.92
+Bangladesh,Shakib Al Hasan,year 2022,5,116,68,29,127.47
+Bangladesh,Anamul Haque,vs India,1,44,44,44,102.32
+Bangladesh,Anamul Haque,vs Pakistan,1,18,18,18,112.5
+Bangladesh,Anamul Haque,vs Sri Lanka,2,82,58,41,132.25
+Bangladesh,Anamul Haque,vs Afghanistan,1,44,44,,133.33
+Bangladesh,Anamul Haque,vs Hong Kong,1,26,26,26,152.94
+Bangladesh,Anamul Haque,year 2022,6,85,26,14.16,106.25
+Bangladesh,Mushfiqur Rahim,vs India,11,229,72,32.71,119.89
+Bangladesh,Mushfiqur Rahim,vs Pakistan,9,97,25,13.85,85.84
+Bangladesh,Mushfiqur Rahim,vs Sri Lanka,10,296,72,42.28,149.49
+Bangladesh,Mushfiqur Rahim,vs Afghanistan,7,149,46,24.83,119.2
+Bangladesh,Mushfiqur Rahim,vs Hong Kong,1,23,23,23,127.77
+Bangladesh,Mushfiqur Rahim,year 2022,1,30,30,30,120
+Bangladesh,Afif Hossain,vs India,3,6,6,3,66.66
+Bangladesh,Afif Hossain,vs Sri Lanka,2,7,7,3.5,87.5
+Bangladesh,Afif Hossain,vs Afghanistan,4,50,25,12.5,98.03
+Bangladesh,Afif Hossain,year 2022,8,195,50,32.5,119.63
+Bangladesh,Mosaddek Hossain,vs India,2,7,7,,77.77
+Bangladesh,Mosaddek Hossain,vs Sri Lanka,2,51,34,51,124.39
+Bangladesh,Mosaddek Hossain,vs Afghanistan,4,45,19,15,97.82
+Bangladesh,Mosaddek Hossain,year 2022,5,38,15,12.66,135.71
+Bangladesh,Mahmudullah,vs India,11,185,33,23.12,125.85
+Bangladesh,Mahmudullah,vs Pakistan,15,119,22,10.81,92.24
+Bangladesh,Mahmudullah,vs Sri Lanka,11,271,43,38.71,148.08
+Bangladesh,Mahmudullah,vs Afghanistan,8,169,45,24.14,121.58
+Bangladesh,Mahmudullah,vs Hong Kong,1,2,2,2,66.66
+Bangladesh,Mahmudullah,year 2022,6,99,27,16.5,112.5
+Bangladesh,Mahedi Hasan,vs Afghanistan,2,5,5,2.5,62.5
+Bangladesh,Mahedi Hasan,vs Pakistan,4,47,30,23.5,109.3
+Bangladesh,Mahedi Hasan,vs Sri Lanka,2,11,11,11,100
+Bangladesh,Mahedi Hasan,year 2022,7,33,22,8.25,110
+Bangladesh,Mohammad Saifuddin,vs Afghanistan,2,2,2,2,66.66
+Bangladesh,Mohammad Saifuddin,vs Sri Lanka,5,26,20,13,100
+Bangladesh,Sabbir Rahman,vs India,6,236,77,47.2,134.85
+Bangladesh,Sabbir Rahman,vs Pakistan,3,90,51,45,136.36
+Bangladesh,Sabbir Rahman,vs Sri Lanka,7,155,80,22.14,115.67
+Bangladesh,Sabbir Rahman,vs Afghanistan,5,38,24,9.5,97.43
+Bangladesh,Sabbir Rahman,vs Hong Kong,1,2,2,2,50
+Bangladesh,Mehidy Hasan Miraz,vs Sri Lanka,3,0,0,0,0
+Bangladesh,Mehidy Hasan Miraz,vs India,3,29,19,14.5,170.58
+Bangladesh,Parvez Hossain Emon,year 2022,1,2,2,2,33.33
+Bangladesh,Mohammad Naim,vs India,3,143,81,47.66,133.64
+Bangladesh,Mohammad Naim,vs Pakistan,5,93,47,18.6,90.29
+Bangladesh,Mohammad Naim,vs Sri Lanka,1,62,62,62,119.23
+Bangladesh,Mohammad Naim,vs Afghanistan,2,15,13,7.5,62.5
+Bangladesh,Mohammad Naim,year 2022,2,15,13,7.5,62.5
+Sri Lanka,Dasun Shanaka,vs India,18,273,74,22.75,123.52
+Sri Lanka,Dasun Shanaka,vs Pakistan,8,118,54,16.85,120.4
+Sri Lanka,Dasun Shanaka,vs Bangladesh,6,87,42,29,164.15
+Sri Lanka,Dasun Shanaka,year 2022,11,308,74,44,145.28
+Sri Lanka,Danushka Gunathilaka,vs India,10,109,38,12.11,102.83
+Sri Lanka,Danushka Gunathilaka,vs Pakistan,6,158,57,26.33,128.45
+Sri Lanka,Danushka Gunathilaka,vs Bangladesh,4,102,42,25.5,130.76
+Sri Lanka,Danushka Gunathilaka,year 2022,9,110,38,12.22,123.59
+Sri Lanka,Pathum Nissanka,vs Bangladesh,1,24,24,24,114.28
+Sri Lanka,Pathum Nissanka,vs India,4,76,75,25.33,118.75
+Sri Lanka,Pathum Nissanka,year 2022,11,326,75,29.63,114.38
+Sri Lanka,Kusal Mendis,vs Bangladesh,4,191,70,47.75,169.02
+Sri Lanka,Kusal Mendis,vs India,2,66,55,33,150
+Sri Lanka,Kusal Mendis,year 2022,6,143,69,28.6,102.87
+Sri Lanka,Charith Asalanka,vs Bangladesh,1,80,80,,163.26
+Sri Lanka,Charith Asalanka,vs India,4,103,53,34.33,122.61
+Sri Lanka,Charith Asalanka,year 2022,11,226,53,22.6,113
+Sri Lanka,Bhanuka Rajapaksa,vs Bangladesh,1,53,53,53,170.96
+Sri Lanka,Bhanuka Rajapaksa,vs India,2,9,9,9,75
+Sri Lanka,Bhanuka Rajapaksa,vs Pakistan,3,112,77,37.33,143.58
+Sri Lanka,Bhanuka Rajapaksa,year 2022,3,30,17,10,120
+Sri Lanka,Ashen Bandara,vs India,1,9,9,9,47.36
+Sri Lanka,Dhananjaya de Silva,vs India,6,146,57,48.66,129.2
+Sri Lanka,Dhananjaya de Silva,vs Pakistan,2,45,31,22.5,95.74
+Sri Lanka,Wanindu Hasaranga,vs Bangladesh,1,6,6,6,120
+Sri Lanka,Wanindu Hasaranga,vs India,6,45,16,15,132.35
+Sri Lanka,Wanindu Hasaranga,vs Pakistan,3,15,7,15,125
+Sri Lanka,Wanindu Hasaranga,year 2022,5,63,17,12.6,126
+Sri Lanka,Dinesh Chandimal,vs India,9,140,35,15.55,91.5
+Sri Lanka,Dinesh Chandimal,vs Pakistan,6,158,58,31.6,106.75
+Sri Lanka,Dinesh Chandimal,vs Bangladesh,7,71,37,14.2,91.02
+Sri Lanka,Dinesh Chandimal,vs Afghanistan,1,18,18,18,105.88
+Sri Lanka,Dinesh Chandimal,year 2022,7,112,25,18.66,96.55
+Hong Kong,Nizakat Khan,vs Bangladesh,1,12,12,12,57.14
+Hong Kong,Nizakat Khan,vs Afghanistan,5,70,26,14,106.06
+Hong Kong,Nizakat Khan,year 2022,8,249,81,31.12,114.74
+Hong Kong,Kinchit Shah,vs Afghanistan,4,42,29,14,107.69
+Hong Kong,Kinchit Shah,year 2022,8,131,37,26.2,100
+Hong Kong,Zeeshan Ali,year 2022,8,105,42,21,105
+Hong Kong,Haroon Arshad,year 2022,5,28,27,14,164.7
+Hong Kong,Babar Hayat,vs Bangladesh,1,1,1,1,25
+Hong Kong,Babar Hayat,vs Afghanistan,5,78,35,19.5,162.5
+Hong Kong,Babar Hayat,year 2022,8,217,86,36.16,134.78
+Hong Kong,Aftab Hussain,year 2022,1,1,1,1,100
+Hong Kong,Aizaz Khan,vs Afghanistan,5,15,12,15,100
+Hong Kong,Aizaz Khan,year 2022,8,50,20,8.33,86.2
+Hong Kong,Scott McKechnie,year 2022,8,29,11,7.25,90.62
+Hong Kong,Yasim Murtaza,year 2022,8,151,58,21.57,104.86
+Hong Kong,Ayush Shukla,year 2022,5,0,0,0,0
